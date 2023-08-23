@@ -1,0 +1,9 @@
+[2023-08-21 09:52:14.333] Starting Git Graph ...
+[2023-08-21 09:52:14.380] Using git (version: 2.41.0)
+[2023-08-21 09:52:14.387] Started Git Graph - Ready to use!
+[2023-08-21 09:52:14.388] Searching workspace for new repos ...
+[2023-08-21 09:52:14.396] > git rev-parse --show-toplevel
+[2023-08-21 09:52:14.539] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2023-08-21 09:52:14.712] Added new repo: /home/sam/rust
+[2023-08-21 09:52:14.729] Completed searching workspace for new repos
+[2023-08-21 09:52:14.729] Showing "Git Graph" Status Bar Item

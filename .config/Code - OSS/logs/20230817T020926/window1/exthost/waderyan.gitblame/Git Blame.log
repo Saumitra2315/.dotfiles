@@ -1,0 +1,10 @@
+2023-08-17 02:09:30.954 [info] git rev-parse --git-dir
+2023-08-17 02:09:30.954 [info] git rev-parse --git-dir
+2023-08-17 02:09:30.954 [info] git blame -C --incremental -- /home/sam/RustProj/Todors/src/main.rs
+2023-08-17 02:09:30.954 [info] Blamed "/home/sam/RustProj/Todors/src/main.rs"
+2023-08-17 02:13:14.426 [info] git rev-parse --git-dir
+2023-08-17 02:13:14.443 [info] git blame -C --incremental -- /home/sam/RustProj/Todors/src/main.rs
+2023-08-17 02:13:14.445 [info] Blamed "/home/sam/RustProj/Todors/src/main.rs"
+2023-08-17 04:10:01.259 [info] git rev-parse --git-dir
+2023-08-17 04:10:01.278 [info] git blame -C --incremental -- /home/sam/RustProj/Todors/src/main.rs
+2023-08-17 04:10:01.281 [info] Blamed "/home/sam/RustProj/Todors/src/main.rs"

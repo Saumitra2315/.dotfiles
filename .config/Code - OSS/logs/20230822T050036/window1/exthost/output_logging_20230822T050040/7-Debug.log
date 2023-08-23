@@ -1,0 +1,44 @@
+   Compiling bend v0.1.0 (/home/sam/RustProj/bend)
+error: path separator must be a double colon
+ --> src/main.rs:4:22
+  |
+4 |     let contents = fs:read_to_string(path).expect("couldnt read file");
+  |                      ^ help: use a double colon instead: `::`
+
+warning: unused import: `path`
+ --> src/main.rs:1:31
+  |
+1 | use std::{env, process::exit, path};
+  |                               ^^^^
+  |
+  = note: `#[warn(unused_imports)]` on by default
+
+error[E0308]: mismatched types
+  --> src/main.rs:13:18
+   |
+13 |         run_file(args[1]);
+   |         -------- ^^^^^^^ expected `&str`, found `String`
+   |         |
+   |         arguments to this function are incorrect
+   |
+note: function defined here
+  --> src/main.rs:3:4
+   |
+3  | fn run_file(path: &str) {
+   |    ^^^^^^^^ ----------
+help: consider borrowing here
+   |
+13 |         run_file(&args[1]);
+   |                  +
+
+error[E0425]: cannot find function `run_prompt` in this scope
+  --> src/main.rs:16:9
+   |
+16 |         run_prompt();
+   |         ^^^^^^^^^^ not found in this scope
+
+error: aborting due to 3 previous errors; 1 warning emitted
+
+Some errors have detailed explanations: E0308, E0425.
+For more information about an error, try `rustc --explain E0308`.
+error: could not compile `bend` (bin "bend") due to 4 previous errors; 1 warning emitted

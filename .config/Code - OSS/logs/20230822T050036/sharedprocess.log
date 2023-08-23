@@ -1,0 +1,16 @@
+2023-08-22 05:00:45.759 [info] Getting Manifest... github.vscode-pull-request-github
+2023-08-22 05:00:45.766 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-08-22 05:00:46.640 [info] Installing extension: github.vscode-pull-request-github
+2023-08-22 05:00:46.648 [info] Installing extension: rust-lang.rust-analyzer
+2023-08-22 05:00:48.374 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2023-08-22 05:00:48.466 [info] Extracted extension to file:///home/sam/.vscode-oss/extensions/github.vscode-pull-request-github-0.70.0-universal: github.vscode-pull-request-github
+2023-08-22 05:00:48.475 [info] Renamed to /home/sam/.vscode-oss/extensions/github.vscode-pull-request-github-0.70.0-universal
+2023-08-22 05:00:48.478 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-08-22 05:00:48.491 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-08-22 05:00:48.495 [info] Marked extension as uninstalled github.vscode-pull-request-github-0.68.0-universal
+2023-08-22 05:01:21.016 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-08-22 05:01:21.385 [info] Extracted extension to file:///home/sam/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1631-linux-x64: rust-lang.rust-analyzer
+2023-08-22 05:01:21.403 [info] Renamed to /home/sam/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1631-linux-x64
+2023-08-22 05:01:21.405 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-08-22 05:01:21.418 [info] Extension installed successfully: rust-lang.rust-analyzer
+2023-08-22 05:01:21.421 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1623-linux-x64

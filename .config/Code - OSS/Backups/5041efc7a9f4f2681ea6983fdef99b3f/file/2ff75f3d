@@ -1,0 +1,5 @@
+file:///home/sam/rust/hello/src/main.rs {"mtime":1691344898071,"ctime":1691171043824,"size":46,"etag":"3b1cmkhef1f","orphaned":false,"typeId":""}
+fn main() {
+    println!("My number: 140");
+}
+ 

@@ -1,0 +1,12 @@
+2023-08-21 09:52:09.973 [info] update#setState disabled
+2023-08-21 09:52:09.975 [info] update#ctor - updates are disabled as there is no update URL
+2023-08-21 17:57:56.610 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2023-08-21 17:57:56.686 [error] [UtilityProcess type: shared-process, pid: 30984]: crashed with code 15 and reason 'killed'
+2023-08-21 17:57:56.690 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 34806]: crashed with code 15 and reason 'killed'
+2023-08-21 17:57:56.694 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2023-08-21 17:57:56.705 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-21 17:57:56.706 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 30989]: crashed with code 15 and reason 'killed'
+2023-08-21 17:57:56.708 [info] Extension host with pid 34808 exited with code: 0, signal: unknown.
+2023-08-21 17:57:56.709 [error] [UtilityProcess id: 2, type: extensionHost, pid: 34808]: crashed with code 15 and reason 'killed'
+2023-08-21 17:57:56.710 [info] Extension host with pid 30973 exited with code: 15, signal: unknown.
+2023-08-21 17:57:56.711 [error] [UtilityProcess id: 1, type: extensionHost, pid: 30973]: crashed with code 15 and reason 'killed'

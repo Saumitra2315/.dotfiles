@@ -1,0 +1,113 @@
+2023-08-23 03:49:11.375 [error] Extension 'GitHub.vscode-pull-request-github CANNOT USE these API proposals 'tokenInformation, contribShareMenu, fileComments, contribCommentPeekContext, contribCommentThreadAdditionalMenu, codiconDecoration, diffCommand, contribCommentEditorActionsMenu, shareProvider, quickDiffProvider, readonlyMessage, treeViewMarkdownMessage'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-08-23 03:49:11.375 [error] Extension 'ms-python.python CANNOT USE these API proposals 'contribEditorContentMenu, quickPickSortByLabel, envShellEvent, testObserver, quickPickItemTooltip, envCollectionWorkspace, saveEditor, envCollectionOptions'. You MUST start in extension development mode or use the --enable-proposed-api command line flag
+2023-08-23 03:49:11.424 [error] [GitHub.vscode-pull-request-github]: comments/comment/editorActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentEditorActionsMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.424 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/additionalActions is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentThreadAdditionalMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/title/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [GitHub.vscode-pull-request-github]: comments/commentThread/comment/context is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribCommentPeekContext"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [GitHub.vscode-pull-request-github]: editor/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [GitHub.vscode-pull-request-github]: file/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [GitHub.vscode-pull-request-github]: editor/title/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [GitHub.vscode-pull-request-github]: explorer/context/share is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribShareMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.425 [error] [ms-python.python]: editor/content is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribEditorContentMenu"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.python
+2023-08-23 03:49:11.649 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.649 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.650 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.650 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.650 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.650 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.650 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.650 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.651 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.652 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: blade
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.653 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.654 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.655 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.655 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.655 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.655 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.655 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.655 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.656 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: vue-html
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.657 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.658 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.658 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.658 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.658 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.659 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.660 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.660 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.660 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.660 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.660 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.660 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.661 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:11.662 [error] [idleberg.icon-fonts]: Unknown language in `contributes.icon-fonts.language`. Provided value: svelte
+2023-08-23 03:49:14.231 [info] [perf] Render performance baseline is 26ms
+2023-08-23 05:28:55.020 [error] self signed certificate in certificate chain: Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)
+2023-08-23 06:08:24.752 [error] self signed certificate in certificate chain: Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)
+2023-08-23 06:42:57.125 [error] self signed certificate in certificate chain: Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)
+2023-08-23 11:08:33.306 [error] self signed certificate in certificate chain: Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)

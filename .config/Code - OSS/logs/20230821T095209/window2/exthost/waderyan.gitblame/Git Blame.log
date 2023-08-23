@@ -1,0 +1,39 @@
+2023-08-21 10:26:34.328 [info] git rev-parse --git-dir
+2023-08-21 10:26:34.353 [info] git rev-parse --git-dir
+2023-08-21 10:26:34.437 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:26:34.469 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"
+2023-08-21 10:26:39.516 [info] git rev-parse --git-dir
+2023-08-21 10:26:39.536 [info] git rev-parse --git-dir
+2023-08-21 10:26:39.594 [info] git blame -C --incremental -- /home/sam/RustProj/wet/Cargo.toml
+2023-08-21 10:26:39.597 [info] Blamed "/home/sam/RustProj/wet/Cargo.toml"
+2023-08-21 10:26:50.443 [info] git rev-parse --git-dir
+2023-08-21 10:26:50.462 [info] git rev-parse --git-dir
+2023-08-21 10:26:50.490 [info] git blame -C --incremental -- /home/sam/RustProj/wet/Cargo.lock
+2023-08-21 10:26:50.495 [info] Blamed "/home/sam/RustProj/wet/Cargo.lock"
+2023-08-21 10:26:53.285 [info] git rev-parse --git-dir
+2023-08-21 10:26:53.317 [info] git blame -C --incremental -- /home/sam/RustProj/wet/Cargo.toml
+2023-08-21 10:26:53.322 [info] Blamed "/home/sam/RustProj/wet/Cargo.toml"
+2023-08-21 10:27:52.472 [info] git rev-parse --git-dir
+2023-08-21 10:27:52.485 [info] git blame -C --incremental -- /home/sam/RustProj/wet/Cargo.toml
+2023-08-21 10:27:52.494 [info] Blamed "/home/sam/RustProj/wet/Cargo.toml"
+2023-08-21 10:28:32.983 [info] git rev-parse --git-dir
+2023-08-21 10:28:33.024 [info] git blame -C --incremental -- /home/sam/RustProj/wet/Cargo.toml
+2023-08-21 10:28:33.025 [info] Blamed "/home/sam/RustProj/wet/Cargo.toml"
+2023-08-21 10:29:15.344 [info] git rev-parse --git-dir
+2023-08-21 10:29:15.377 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:29:15.378 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"
+2023-08-21 10:29:51.180 [info] git rev-parse --git-dir
+2023-08-21 10:29:51.201 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:29:51.212 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"
+2023-08-21 10:46:49.974 [info] git rev-parse --git-dir
+2023-08-21 10:46:50.009 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:46:50.012 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"
+2023-08-21 10:48:09.649 [info] git rev-parse --git-dir
+2023-08-21 10:48:09.667 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:48:09.676 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"
+2023-08-21 10:51:17.496 [info] git rev-parse --git-dir
+2023-08-21 10:51:17.525 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:51:17.527 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"
+2023-08-21 10:51:32.732 [info] git rev-parse --git-dir
+2023-08-21 10:51:32.772 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-21 10:51:32.773 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"

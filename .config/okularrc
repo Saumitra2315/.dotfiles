@@ -1,0 +1,32 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[KFileDialog Settings]
+Recent Files[$e]=Rust in Action Systems programming concepts and techniques (Timothy Samuel McNamara) (Z-Library).pdf,file:$HOME/Downloads/Rust in Action Systems programming concepts and techniques (Timothy Samuel McNamara) (Z-Library).pdf
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+1920x1080 screen: Height=976
+1920x1080 screen: Width=1920
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=56
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADovwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAuAAADogAAAAMBAAACAAAHgAAAA6IAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Rust The Ultimate Beginners Guide to Learn Rust programming Step by Step (Bach, John [Bach, John]) (Z-Library).epub
+File2[$e]=$HOME/Downloads/Beginning Rust From Novice to Professional (Carlo Milanesi) (Z-Library).pdf
+File3[$e]=$HOME/Downloads/Rust in Action Systems programming concepts and techniques (Timothy Samuel McNamara) (Z-Library).pdf
+File4[$e]=$HOME/Downloads/Financial Accounting (Walter T. Harrison Jr., Charles T. Horngren etc.) (Z-Library).pdf
+Name1[$e]=Rust The Ultimate Beginners Guide to Learn Rust programming Step by Step (Bach, John [Bach, John]) (Z-Library).epub
+Name2[$e]=Beginning Rust From Novice to Professional (Carlo Milanesi) (Z-Library).pdf
+Name3[$e]=Rust in Action Systems programming concepts and techniques (Timothy Samuel McNamara) (Z-Library).pdf
+Name4[$e]=Financial Accounting (Walter T. Harrison Jr., Charles T. Horngren etc.) (Z-Library).pdf

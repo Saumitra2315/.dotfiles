@@ -1,0 +1,70 @@
+2023-08-23 03:49:11.521 [info] Extension host with pid 10783 started
+2023-08-23 03:49:11.521 [info] Skipping acquiring lock for /home/sam/.config/Code - OSS/User/workspaceStorage/dd09a88afec843e4931ce594a8b90843.
+2023-08-23 03:49:11.575 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-23 03:49:11.577 [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2023-08-23 03:49:11.579 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2023-08-23 03:49:11.620 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-23 03:49:11.634 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-23 03:49:11.640 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2023-08-23 03:49:11.725 [info] ExtensionService#_doActivateExtension Swellaby.vscode-rust-test-adapter, startup: true, activationEvent: '*'
+2023-08-23 03:49:11.727 [error] Activating extension Swellaby.vscode-rust-test-adapter failed due to an error:
+2023-08-23 03:49:11.727 [error] Error: Cannot find module '/home/sam/.vscode-oss/extensions/swellaby.vscode-rust-test-adapter-0.11.1-universal/src/main.js'
+Require stack:
+- /usr/lib/code/out/vs/loader.js
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+	at Module._resolveFilename (node:internal/modules/cjs/loader:963:15)
+	at o._resolveFilename (node:electron/js2c/utility_init:2:2994)
+	at Module._load (node:internal/modules/cjs/loader:811:27)
+	at f._load (node:electron/js2c/asar_bundle:2:13330)
+	at o._load (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:130:28084)
+	at f._load (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:130:25418)
+	at C._load (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:94:19511)
+	at Module.require (node:internal/modules/cjs/loader:1035:19)
+	at require (node:internal/modules/cjs/helpers:102:18)
+	at Function.i [as __$__nodeRequire] (/usr/lib/code/out/vs/loader.js:5:98)
+	at r.rb (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:130:26597)
+	at async Promise.all (index 0)
+2023-08-23 03:49:11.728 [info] Eager extensions activated
+2023-08-23 03:49:11.750 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:11.751 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:11.755 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:11.781 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:11.803 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished', root cause: franneck94.vscode-c-cpp-config
+2023-08-23 03:49:11.808 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-08-23 03:49:11.834 [info] ExtensionService#_doActivateExtension waderyan.gitblame, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:12.004 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:12.006 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-08-23 03:49:12.155 [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+2023-08-23 03:49:12.155 [error] Error: Extension 'GitHub.vscode-pull-request-github' CANNOT use API proposal: readonlyMessage.
+Its package.json#enabledApiProposals-property declares:  but NOT readonlyMessage.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+	at S (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:100:67708)
+	at S.registerFileSystemProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:104:19680)
+	at Object.registerFileSystemProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:37243)
+	at B0 (/home/sam/.vscode-oss/extensions/github.vscode-pull-request-github-0.70.0-universal/dist/extension.js:1835:8152)
+	at async L0 (/home/sam/.vscode-oss/extensions/github.vscode-pull-request-github-0.70.0-universal/dist/extension.js:1835:5533)
+	at async p.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:6206)
+	at async p.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:6169)
+	at async p.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:102:5626)
+2023-08-23 05:28:54.964 [error] Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)
+2023-08-23 06:08:24.702 [error] Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)
+2023-08-23 06:42:57.069 [error] Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)
+2023-08-23 11:08:33.248 [error] Error: self signed certificate in certificate chain
+	at TLSSocket.onConnectSecure (node:_tls_wrap:1535:34)
+	at TLSSocket.emit (node:events:513:28)
+	at TLSSocket._finishInit (node:_tls_wrap:949:8)
+	at ssl.onhandshakedone (node:_tls_wrap:730:12)

@@ -1,0 +1,46 @@
+[2023-08-22 21:54:59.106] [GIT  ] [/home/sam/.config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [53ms]
+
+[2023-08-22 21:54:59.607] [GIT  ] [/home/sam/.config/rofi] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [17ms]
+
+[2023-08-22 21:56:15.439] [GIT  ] [/home/sam/.config/polybar] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-08-22 21:56:43.209] [GIT  ] [/home/sam/.config/polybar] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [10ms]
+
+[2023-08-22 22:10:32.781] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [10ms]
+
+[2023-08-22 22:10:33.512] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-08-22 22:10:34.138] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [11ms]
+
+[2023-08-22 22:10:34.689] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-08-22 22:10:35.384] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [10ms]
+
+[2023-08-22 22:10:35.991] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-08-22 22:10:36.519] [GIT  ] [/home/sam/.config/eww/vertical-bar/scripts] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-08-22 22:20:06.250] [GIT  ] [/home/sam/.config] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [8ms]
+
+[2023-08-22 22:20:13.853] [GIT  ] [/home/sam/.config/eww] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [23ms]
+
+[2023-08-22 22:22:20.547] [GIT  ] [/home/sam/.config/eww] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [11ms]
+
+[2023-08-23 05:48:09.918] [GIT  ] [/home/sam/.config/true] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [12ms]
+
+[2023-08-23 05:48:13.170] [GIT  ] [/home/sam/.config/true] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [11ms]
+
+[2023-08-23 05:48:21.045] [GIT  ] [/home/sam/.config/true/scss/taskbar/floating] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [11ms]
+
+[2023-08-23 05:48:24.317] [GIT  ] [/home/sam/.config/true/scss/taskbar/floating] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [12ms]
+
+[2023-08-23 05:48:25.345] [GIT  ] [/home/sam/.config/true/scss/taskbar/floating] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [10ms]
+
+[2023-08-23 05:48:27.887] [GIT  ] [/home/sam/.config/true/scss/taskbar] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [13ms]
+
+[2023-08-23 05:48:35.584] [GIT  ] [/home/sam/.config/true/shell] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [11ms]
+
+[2023-08-23 05:49:04.709] [GIT  ] [/home/sam/.config/eww/shell] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [12ms]
+
+[2023-08-23 05:50:06.372] [GIT  ] [/home/sam/.config/eww] git rev-parse --show-toplevel • Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false rev-parse --show-toplevel • not a git repository (or any of the parent directories): .git [9ms]
+

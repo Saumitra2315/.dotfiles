@@ -1,0 +1,74 @@
+2023-08-23 03:24:59.238 [info] git rev-parse --git-dir
+2023-08-23 03:24:59.238 [info] git rev-parse --git-dir
+2023-08-23 03:24:59.238 [info] Will not blame '/home/sam/.config/rofi/config.rasi'. Outside the current workspace.
+2023-08-23 03:26:15.388 [info] git rev-parse --git-dir
+2023-08-23 03:26:15.401 [info] git rev-parse --git-dir
+2023-08-23 03:26:15.404 [info] Will not blame '/home/sam/.config/polybar/config.ini'. Outside the current workspace.
+2023-08-23 03:26:43.171 [info] git rev-parse --git-dir
+2023-08-23 03:26:43.183 [info] git rev-parse --git-dir
+2023-08-23 03:26:43.186 [info] Will not blame '/home/sam/.config/polybar/launch.sh'. Outside the current workspace.
+2023-08-23 03:40:32.741 [info] git rev-parse --git-dir
+2023-08-23 03:40:32.752 [info] git rev-parse --git-dir
+2023-08-23 03:40:32.754 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/getweather'. Outside the current workspace.
+2023-08-23 03:40:33.481 [info] git rev-parse --git-dir
+2023-08-23 03:40:33.493 [info] git rev-parse --git-dir
+2023-08-23 03:40:33.494 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/launcher'. Outside the current workspace.
+2023-08-23 03:40:34.098 [info] git rev-parse --git-dir
+2023-08-23 03:40:34.109 [info] git rev-parse --git-dir
+2023-08-23 03:40:34.112 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/logger.zsh'. Outside the current workspace.
+2023-08-23 03:40:34.653 [info] git rev-parse --git-dir
+2023-08-23 03:40:34.664 [info] git rev-parse --git-dir
+2023-08-23 03:40:34.666 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/media'. Outside the current workspace.
+2023-08-23 03:40:35.347 [info] git rev-parse --git-dir
+2023-08-23 03:40:35.359 [info] git rev-parse --git-dir
+2023-08-23 03:40:35.361 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/sysinfo'. Outside the current workspace.
+2023-08-23 03:40:35.956 [info] git rev-parse --git-dir
+2023-08-23 03:40:35.970 [info] git rev-parse --git-dir
+2023-08-23 03:40:35.972 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/welcome'. Outside the current workspace.
+2023-08-23 03:40:36.488 [info] git rev-parse --git-dir
+2023-08-23 03:40:36.499 [info] git rev-parse --git-dir
+2023-08-23 03:40:36.501 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/workspace'. Outside the current workspace.
+2023-08-23 03:48:48.773 [info] git rev-parse --git-dir
+2023-08-23 03:48:48.774 [info] Will not blame '/home/sam/.config/eww/vertical-bar/scripts/media'. Outside the current workspace.
+2023-08-23 03:50:06.221 [info] git rev-parse --git-dir
+2023-08-23 03:50:06.231 [info] git rev-parse --git-dir
+2023-08-23 03:50:06.232 [info] Will not blame '/home/sam/.config/gtkrc'. Outside the current workspace.
+2023-08-23 03:50:13.768 [info] git rev-parse --git-dir
+2023-08-23 03:50:13.779 [info] git rev-parse --git-dir
+2023-08-23 03:50:13.781 [info] Will not blame '/home/sam/.config/eww/eww.scss'. Outside the current workspace.
+2023-08-23 03:52:20.507 [info] git rev-parse --git-dir
+2023-08-23 03:52:20.521 [info] git rev-parse --git-dir
+2023-08-23 03:52:20.524 [info] Will not blame '/home/sam/.config/eww/init.zsh'. Outside the current workspace.
+2023-08-23 11:18:09.876 [info] git rev-parse --git-dir
+2023-08-23 11:18:09.889 [info] git rev-parse --git-dir
+2023-08-23 11:18:09.893 [info] Will not blame '/home/sam/.config/true/eww.scss'. Outside the current workspace.
+2023-08-23 11:18:13.130 [info] git rev-parse --git-dir
+2023-08-23 11:18:13.144 [info] git rev-parse --git-dir
+2023-08-23 11:18:13.146 [info] Will not blame '/home/sam/.config/true/eww.yuck'. Outside the current workspace.
+2023-08-23 11:18:21.003 [info] git rev-parse --git-dir
+2023-08-23 11:18:21.016 [info] git rev-parse --git-dir
+2023-08-23 11:18:21.019 [info] Will not blame '/home/sam/.config/true/scss/taskbar/floating/floating_center.scss'. Outside the current workspace.
+2023-08-23 11:18:24.277 [info] git rev-parse --git-dir
+2023-08-23 11:18:24.290 [info] git rev-parse --git-dir
+2023-08-23 11:18:24.293 [info] Will not blame '/home/sam/.config/true/scss/taskbar/floating/floating_right.scss'. Outside the current workspace.
+2023-08-23 11:18:25.315 [info] git rev-parse --git-dir
+2023-08-23 11:18:25.324 [info] git rev-parse --git-dir
+2023-08-23 11:18:25.325 [info] Will not blame '/home/sam/.config/true/scss/taskbar/floating/floating_left.scss'. Outside the current workspace.
+2023-08-23 11:18:27.846 [info] git rev-parse --git-dir
+2023-08-23 11:18:27.859 [info] git rev-parse --git-dir
+2023-08-23 11:18:27.862 [info] Will not blame '/home/sam/.config/true/scss/taskbar/init.scss'. Outside the current workspace.
+2023-08-23 11:18:35.544 [info] git rev-parse --git-dir
+2023-08-23 11:18:35.556 [info] git rev-parse --git-dir
+2023-08-23 11:18:35.559 [info] Will not blame '/home/sam/.config/true/shell/calendar.zsh'. Outside the current workspace.
+2023-08-23 11:19:04.659 [info] git rev-parse --git-dir
+2023-08-23 11:19:04.674 [info] git rev-parse --git-dir
+2023-08-23 11:19:04.677 [info] Will not blame '/home/sam/.config/eww/shell/calendar.zsh'. Outside the current workspace.
+2023-08-23 11:20:06.342 [info] git rev-parse --git-dir
+2023-08-23 11:20:06.351 [info] git rev-parse --git-dir
+2023-08-23 11:20:06.353 [info] Will not blame '/home/sam/.config/eww/eww.yuck'. Outside the current workspace.
+2023-08-23 11:20:14.340 [info] git rev-parse --git-dir
+2023-08-23 11:20:14.341 [info] Will not blame '/home/sam/.config/eww/init.zsh'. Outside the current workspace.
+2023-08-23 11:21:06.582 [info] git rev-parse --git-dir
+2023-08-23 11:21:06.584 [info] Will not blame '/home/sam/.config/eww/eww.yuck'. Outside the current workspace.
+2023-08-23 11:22:54.163 [info] git rev-parse --git-dir
+2023-08-23 11:22:54.164 [info] Will not blame '/home/sam/.config/eww/init.zsh'. Outside the current workspace.

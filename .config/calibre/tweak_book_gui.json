@@ -1,0 +1,235 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "find-widget-state": {
+    "case_sensitive": false,
+    "direction": "down",
+    "dot_all": false,
+    "mode": "normal",
+    "where": "current",
+    "wrap": true
+  },
+  "geometry-of-import-foreign-geometry": {
+    "frame_geometry": {
+      "height": 219,
+      "width": 533,
+      "x": 684,
+      "y": 365
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 190,
+      "width": 533,
+      "x": 684,
+      "y": 394
+    },
+    "maximized": false,
+    "normal_geometry": {
+      "height": 190,
+      "width": 533,
+      "x": 684,
+      "y": 394
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAKsAAABbQAABMAAAAJHAAACrAAAAYoAAATAAAACRwAAAAAAAAAAB4AAAAKsAAABigAABMAAAAJH"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Chimei Innolux Corporation",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1005,
+      "width": 1920,
+      "x": 0,
+      "y": 27
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 976,
+      "width": 1920,
+      "x": 0,
+      "y": 56
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 976,
+      "width": 1920,
+      "x": 0,
+      "y": 56
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAGwAAB38AAAQHAAAAAAAAADgAAAd/AAAEBwAAAAACAAAAB4AAAAAAAAAAOAAAB38AAAQH"
+    },
+    "screen": {
+      "depth": 24,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "Chimei Innolux Corporation",
+      "model": "",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAADkvwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAACcAAAOSAAAAWgD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFoA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAIAA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIwA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAhYA////AAAAAQAAAoAAAAOS/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAJwAAA5IAAABTAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABaAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsAAAAAAP////8AAAA7AP///wAAA/QAAAOSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  },
+  "recent-books": [
+    "/home/sam/Downloads/Exactly what to SayThe magic words for influence and impact (Phil M. Jones) (Z-Library).epub",
+    "/home/sam/Downloads/Simulations_FirstCall_Instructions(1).epub"
+  ],
+  "reports-ui-state": {},
+  "saved_seaches_state": {
+    "direction": "down",
+    "where": "current",
+    "wrap": true
+  },
+  "search-panel-visible": false,
+  "text_search_widget_state": {
+    "case_sensitive": false,
+    "dot_all": true,
+    "mode": "normal",
+    "where": "current"
+  }
+}

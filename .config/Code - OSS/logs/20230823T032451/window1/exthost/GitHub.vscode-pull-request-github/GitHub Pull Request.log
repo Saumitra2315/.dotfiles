@@ -1,0 +1,4 @@
+2023-08-23 03:24:53.166 [warning] /home/sam/.ssh/config: ENOENT: no such file or directory, open '/home/sam/.ssh/config'
+2023-08-23 03:24:53.254 [info] Looking for git repository
+2023-08-23 03:24:53.254 [info] Found 0 repositories during activation
+2023-08-23 03:24:53.255 [info] Registering git provider

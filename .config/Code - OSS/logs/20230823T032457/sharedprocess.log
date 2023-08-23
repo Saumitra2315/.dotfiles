@@ -1,0 +1,14 @@
+2023-08-23 03:25:11.909 [info] Getting Manifest... huytd.tokyo-city
+2023-08-23 03:25:12.145 [info] Installing extension: huytd.tokyo-city
+2023-08-23 03:25:15.227 [info] Extension signature verification is not done: huytd.tokyo-city
+2023-08-23 03:25:15.293 [info] Extracted extension to file:///home/sam/.vscode-oss/extensions/huytd.tokyo-city-0.2.4-universal: huytd.tokyo-city
+2023-08-23 03:25:15.301 [info] Renamed to /home/sam/.vscode-oss/extensions/huytd.tokyo-city-0.2.4-universal
+2023-08-23 03:25:15.302 [info] Extracting extension completed. huytd.tokyo-city
+2023-08-23 03:25:15.322 [info] Extension installed successfully: huytd.tokyo-city
+2023-08-23 03:25:47.330 [info] Getting Manifest... sdras.night-owl
+2023-08-23 03:25:48.005 [info] Installing extension: sdras.night-owl
+2023-08-23 03:25:55.156 [info] Extension signature verification is not done: sdras.night-owl
+2023-08-23 03:25:55.234 [info] Extracted extension to file:///home/sam/.vscode-oss/extensions/sdras.night-owl-2.0.1-universal: sdras.night-owl
+2023-08-23 03:25:55.242 [info] Renamed to /home/sam/.vscode-oss/extensions/sdras.night-owl-2.0.1-universal
+2023-08-23 03:25:55.243 [info] Extracting extension completed. sdras.night-owl
+2023-08-23 03:25:55.258 [info] Extension installed successfully: sdras.night-owl

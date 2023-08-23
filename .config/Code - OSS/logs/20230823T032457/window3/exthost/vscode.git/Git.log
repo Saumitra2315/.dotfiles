@@ -1,0 +1,24 @@
+2023-08-23 03:49:11.741 [info] Log level: Info
+2023-08-23 03:49:11.741 [info] Validating found git in: "git"
+2023-08-23 03:49:11.741 [info] Using git "2.41.0" from "git"
+2023-08-23 03:49:11.741 [info] > git rev-parse --show-toplevel [1ms]
+2023-08-23 03:49:11.741 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-08-23 03:49:11.741 [info] Open repository: /home/sam/Downloads/dotfiles
+2023-08-23 03:49:11.741 [info] > git config --get commit.template [9ms]
+2023-08-23 03:49:11.741 [info] > git rev-parse --show-toplevel [7ms]
+2023-08-23 03:49:11.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2023-08-23 03:49:11.829 [info] > git status -z -uall [80ms]
+2023-08-23 03:49:11.850 [info] > git rev-parse --show-toplevel [22ms]
+2023-08-23 03:49:11.851 [info] > git config --get commit.template [7ms]
+2023-08-23 03:49:11.869 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2023-08-23 03:49:11.936 [info] > git status -z -uall [60ms]
+2023-08-23 03:49:11.954 [info] > git rev-parse --show-toplevel [85ms]
+2023-08-23 03:49:11.992 [info] > git rev-parse --show-toplevel [1ms]
+2023-08-23 03:49:12.043 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-23 03:49:12.105 [info] > git rev-parse --show-toplevel [46ms]
+2023-08-23 03:49:12.141 [info] > git rev-parse --show-toplevel [7ms]
+2023-08-23 03:49:12.152 [info] > git rev-parse --show-toplevel [2ms]
+2023-08-23 03:49:12.255 [info] > git check-ignore -v -z --stdin [5ms]
+2023-08-23 03:49:21.456 [info] > git check-ignore -v -z --stdin [1ms]
+2023-08-23 03:49:32.003 [info] > git check-ignore -v -z --stdin [2ms]
+2023-08-23 03:49:36.612 [info] > git check-ignore -v -z --stdin [1ms]

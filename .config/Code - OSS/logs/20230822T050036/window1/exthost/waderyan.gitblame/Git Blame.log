@@ -1,0 +1,47 @@
+2023-08-22 05:00:42.822 [info] git rev-parse --git-dir
+2023-08-22 05:00:42.844 [info] git rev-parse --git-dir
+2023-08-22 05:00:42.933 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 05:00:42.967 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 05:03:05.781 [info] git rev-parse --git-dir
+2023-08-22 05:03:05.810 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 05:03:05.824 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 05:03:13.146 [info] git rev-parse --git-dir
+2023-08-22 05:03:13.173 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 05:03:13.185 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:32:39.504 [info] git rev-parse --git-dir
+2023-08-22 08:32:39.522 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:32:39.531 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:33:46.015 [info] git rev-parse --git-dir
+2023-08-22 08:33:46.045 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:33:46.058 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:36:46.360 [info] git rev-parse --git-dir
+2023-08-22 08:36:46.378 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:36:46.387 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:37:45.192 [info] git rev-parse --git-dir
+2023-08-22 08:37:45.220 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:37:45.223 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:37:51.674 [info] git rev-parse --git-dir
+2023-08-22 08:37:51.703 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:37:51.717 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:38:33.107 [info] git rev-parse --git-dir
+2023-08-22 08:38:33.127 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:38:33.135 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:38:53.323 [info] git rev-parse --git-dir
+2023-08-22 08:38:53.350 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:38:53.361 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:39:37.149 [info] git rev-parse --git-dir
+2023-08-22 08:39:37.177 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:39:37.189 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:40:49.353 [info] git rev-parse --git-dir
+2023-08-22 08:40:49.378 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:40:49.380 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:42:36.267 [info] git rev-parse --git-dir
+2023-08-22 08:42:36.290 [info] git blame -C --incremental -- /home/sam/RustProj/bend/src/main.rs
+2023-08-22 08:42:36.301 [info] Blamed "/home/sam/RustProj/bend/src/main.rs"
+2023-08-22 08:58:25.052 [info] git rev-parse --git-dir
+2023-08-22 08:58:25.069 [info] git rev-parse --git-dir
+2023-08-22 08:58:25.088 [info] git blame -C --incremental -- /home/sam/RustProj/README.md
+2023-08-22 08:58:25.091 [info] Blamed "/home/sam/RustProj/README.md"
+2023-08-22 08:58:30.774 [info] git rev-parse --git-dir
+2023-08-22 08:58:30.785 [info] git blame -C --incremental -- /home/sam/RustProj/README.md
+2023-08-22 08:58:30.787 [info] Blamed "/home/sam/RustProj/README.md"

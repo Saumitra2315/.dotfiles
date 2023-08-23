@@ -1,0 +1,1632 @@
+2023-08-01T16:34:20.781Z [Modules] Modules initializing
+2023-08-01T16:34:20.781Z [Modules] Distribution: remote
+2023-08-01T16:34:20.781Z [Modules] Host updates: enabled
+2023-08-01T16:34:20.781Z [Modules] Module updates: enabled
+2023-08-01T16:34:20.782Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-01T16:34:20.782Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-01T16:34:20.782Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-01T16:34:23.365Z [Modules] Bootstrapping...
+2023-08-01T16:34:23.365Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-08-01T16:34:23.366Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-08-01T16:34:23.366Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-08-01T16:34:23.367Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-08-01T16:34:23.367Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-08-01T16:34:23.367Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-08-01T16:34:23.367Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-08-01T16:34:23.368Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-08-01T16:34:23.368Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-08-01T16:34:23.368Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-08-01T16:34:23.368Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-08-01T16:34:23.368Z [Modules] Checking for host updates.
+2023-08-01T16:34:23.921Z [Modules] Host is up to date.
+2023-08-01T16:34:23.922Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-01T16:34:24.287Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-08-01T16:34:24.287Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-08-01T16:34:24.287Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-08-01T16:34:24.287Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-08-01T16:34:24.287Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-08-01T16:34:24.288Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-08-01T16:34:24.288Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip
+2023-08-01T16:34:25.697Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 1%
+2023-08-01T16:34:25.771Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 2%
+2023-08-01T16:34:25.856Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 3%
+2023-08-01T16:34:25.921Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 4%
+2023-08-01T16:34:25.972Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 5%
+2023-08-01T16:34:26.001Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 6%
+2023-08-01T16:34:26.032Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 7%
+2023-08-01T16:34:26.061Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 8%
+2023-08-01T16:34:26.085Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 9%
+2023-08-01T16:34:26.108Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 10%
+2023-08-01T16:34:26.129Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 11%
+2023-08-01T16:34:26.155Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 12%
+2023-08-01T16:34:26.168Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 13%
+2023-08-01T16:34:26.191Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 14%
+2023-08-01T16:34:26.202Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 15%
+2023-08-01T16:34:26.211Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 16%
+2023-08-01T16:34:26.221Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 17%
+2023-08-01T16:34:26.239Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 18%
+2023-08-01T16:34:26.248Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 19%
+2023-08-01T16:34:26.256Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 20%
+2023-08-01T16:34:26.271Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 21%
+2023-08-01T16:34:26.279Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 22%
+2023-08-01T16:34:26.285Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 23%
+2023-08-01T16:34:26.293Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 24%
+2023-08-01T16:34:26.307Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 25%
+2023-08-01T16:34:26.314Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 26%
+2023-08-01T16:34:26.319Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 27%
+2023-08-01T16:34:26.331Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 28%
+2023-08-01T16:34:26.337Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 29%
+2023-08-01T16:34:26.343Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 30%
+2023-08-01T16:34:26.349Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 31%
+2023-08-01T16:34:26.360Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 32%
+2023-08-01T16:34:26.364Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 33%
+2023-08-01T16:34:26.370Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 34%
+2023-08-01T16:34:26.379Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 35%
+2023-08-01T16:34:26.384Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 36%
+2023-08-01T16:34:26.389Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 37%
+2023-08-01T16:34:26.393Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 38%
+2023-08-01T16:34:26.402Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 39%
+2023-08-01T16:34:26.405Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 40%
+2023-08-01T16:34:26.410Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 41%
+2023-08-01T16:34:26.417Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 42%
+2023-08-01T16:34:26.421Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 43%
+2023-08-01T16:34:26.425Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 44%
+2023-08-01T16:34:26.428Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 45%
+2023-08-01T16:34:26.435Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 46%
+2023-08-01T16:34:26.439Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 47%
+2023-08-01T16:34:26.444Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 48%
+2023-08-01T16:34:26.450Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 49%
+2023-08-01T16:34:26.453Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 50%
+2023-08-01T16:34:26.456Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 51%
+2023-08-01T16:34:26.459Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 52%
+2023-08-01T16:34:26.465Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 53%
+2023-08-01T16:34:26.469Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 54%
+2023-08-01T16:34:26.472Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 55%
+2023-08-01T16:34:26.477Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 56%
+2023-08-01T16:34:26.480Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 57%
+2023-08-01T16:34:26.483Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 58%
+2023-08-01T16:34:26.487Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 59%
+2023-08-01T16:34:26.492Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 60%
+2023-08-01T16:34:26.495Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 61%
+2023-08-01T16:34:26.498Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 62%
+2023-08-01T16:34:26.504Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 63%
+2023-08-01T16:34:26.506Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 64%
+2023-08-01T16:34:26.660Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 66%
+2023-08-01T16:34:26.668Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 68%
+2023-08-01T16:34:26.674Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 71%
+2023-08-01T16:34:26.683Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 73%
+2023-08-01T16:34:26.687Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 74%
+2023-08-01T16:34:26.691Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 75%
+2023-08-01T16:34:26.693Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 78%
+2023-08-01T16:34:26.694Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 79%
+2023-08-01T16:34:26.694Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 85%
+2023-08-01T16:34:26.694Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 91%
+2023-08-01T16:34:26.695Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 99%
+2023-08-01T16:34:26.695Z [Modules] Streaming discord_desktop_core@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip: 100%
+2023-08-01T16:34:26.696Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-08-01T16:34:26.696Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip
+2023-08-01T16:34:27.532Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 2%
+2023-08-01T16:34:27.533Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 4%
+2023-08-01T16:34:27.537Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 8%
+2023-08-01T16:34:27.541Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 12%
+2023-08-01T16:34:27.545Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 16%
+2023-08-01T16:34:27.547Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 18%
+2023-08-01T16:34:27.550Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 22%
+2023-08-01T16:34:27.551Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 23%
+2023-08-01T16:34:27.553Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 27%
+2023-08-01T16:34:27.555Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 28%
+2023-08-01T16:34:27.557Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 29%
+2023-08-01T16:34:27.559Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 33%
+2023-08-01T16:34:27.716Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 34%
+2023-08-01T16:34:27.720Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 38%
+2023-08-01T16:34:27.720Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 43%
+2023-08-01T16:34:27.721Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 50%
+2023-08-01T16:34:27.721Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 58%
+2023-08-01T16:34:27.722Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 66%
+2023-08-01T16:34:27.722Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 74%
+2023-08-01T16:34:27.723Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 83%
+2023-08-01T16:34:27.841Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 87%
+2023-08-01T16:34:27.841Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 90%
+2023-08-01T16:34:27.845Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 94%
+2023-08-01T16:34:27.845Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 98%
+2023-08-01T16:34:27.846Z [Modules] Streaming discord_erlpack@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip: 100%
+2023-08-01T16:34:27.847Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-08-01T16:34:27.847Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip
+2023-08-01T16:34:28.472Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 1%
+2023-08-01T16:34:28.476Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 2%
+2023-08-01T16:34:28.478Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 3%
+2023-08-01T16:34:28.483Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 4%
+2023-08-01T16:34:28.488Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 5%
+2023-08-01T16:34:28.492Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 6%
+2023-08-01T16:34:28.494Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 7%
+2023-08-01T16:34:28.500Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 8%
+2023-08-01T16:34:28.503Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 9%
+2023-08-01T16:34:28.507Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 10%
+2023-08-01T16:34:28.510Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 11%
+2023-08-01T16:34:28.515Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 12%
+2023-08-01T16:34:28.519Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 13%
+2023-08-01T16:34:28.528Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 14%
+2023-08-01T16:34:28.532Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 15%
+2023-08-01T16:34:28.534Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 16%
+2023-08-01T16:34:28.539Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 17%
+2023-08-01T16:34:28.545Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 18%
+2023-08-01T16:34:28.547Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 19%
+2023-08-01T16:34:28.628Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 20%
+2023-08-01T16:34:28.631Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 21%
+2023-08-01T16:34:28.673Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 22%
+2023-08-01T16:34:28.678Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 23%
+2023-08-01T16:34:28.681Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 24%
+2023-08-01T16:34:28.684Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 25%
+2023-08-01T16:34:28.688Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 26%
+2023-08-01T16:34:28.690Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 27%
+2023-08-01T16:34:28.696Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 28%
+2023-08-01T16:34:28.702Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 29%
+2023-08-01T16:34:28.711Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 30%
+2023-08-01T16:34:28.713Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 31%
+2023-08-01T16:34:28.718Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 32%
+2023-08-01T16:34:28.722Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 33%
+2023-08-01T16:34:28.723Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 34%
+2023-08-01T16:34:28.730Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 35%
+2023-08-01T16:34:28.731Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 36%
+2023-08-01T16:34:28.943Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 37%
+2023-08-01T16:34:28.944Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 38%
+2023-08-01T16:34:28.945Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 39%
+2023-08-01T16:34:28.945Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 40%
+2023-08-01T16:34:28.945Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 41%
+2023-08-01T16:34:28.946Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 42%
+2023-08-01T16:34:28.946Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 43%
+2023-08-01T16:34:28.946Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 44%
+2023-08-01T16:34:28.947Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 45%
+2023-08-01T16:34:28.947Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 46%
+2023-08-01T16:34:28.947Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 47%
+2023-08-01T16:34:28.947Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 48%
+2023-08-01T16:34:28.948Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 49%
+2023-08-01T16:34:28.948Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 51%
+2023-08-01T16:34:28.948Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 52%
+2023-08-01T16:34:28.948Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 53%
+2023-08-01T16:34:28.948Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 54%
+2023-08-01T16:34:28.949Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 55%
+2023-08-01T16:34:28.949Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 56%
+2023-08-01T16:34:28.949Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 58%
+2023-08-01T16:34:28.949Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 61%
+2023-08-01T16:34:28.950Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 62%
+2023-08-01T16:34:28.950Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 65%
+2023-08-01T16:34:28.950Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 67%
+2023-08-01T16:34:29.103Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 68%
+2023-08-01T16:34:29.105Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 69%
+2023-08-01T16:34:29.110Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 70%
+2023-08-01T16:34:29.111Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 71%
+2023-08-01T16:34:29.122Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 72%
+2023-08-01T16:34:29.128Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 73%
+2023-08-01T16:34:29.132Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 74%
+2023-08-01T16:34:29.137Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 75%
+2023-08-01T16:34:29.139Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 76%
+2023-08-01T16:34:29.142Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 77%
+2023-08-01T16:34:29.144Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 78%
+2023-08-01T16:34:29.147Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 79%
+2023-08-01T16:34:29.152Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 80%
+2023-08-01T16:34:29.156Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 81%
+2023-08-01T16:34:29.162Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 82%
+2023-08-01T16:34:29.165Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 83%
+2023-08-01T16:34:29.168Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 84%
+2023-08-01T16:34:29.172Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 85%
+2023-08-01T16:34:29.173Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 86%
+2023-08-01T16:34:29.176Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 87%
+2023-08-01T16:34:29.177Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 88%
+2023-08-01T16:34:29.185Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 89%
+2023-08-01T16:34:29.186Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 90%
+2023-08-01T16:34:29.190Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 91%
+2023-08-01T16:34:29.191Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 92%
+2023-08-01T16:34:29.195Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 93%
+2023-08-01T16:34:29.198Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 94%
+2023-08-01T16:34:29.200Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 95%
+2023-08-01T16:34:29.203Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 96%
+2023-08-01T16:34:29.205Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 97%
+2023-08-01T16:34:29.208Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 98%
+2023-08-01T16:34:29.269Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 99%
+2023-08-01T16:34:29.270Z [Modules] Streaming discord_spellcheck@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip: 100%
+2023-08-01T16:34:29.272Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-08-01T16:34:29.272Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip
+2023-08-01T16:34:29.873Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 2%
+2023-08-01T16:34:29.876Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 4%
+2023-08-01T16:34:29.877Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 5%
+2023-08-01T16:34:29.880Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 8%
+2023-08-01T16:34:29.885Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 10%
+2023-08-01T16:34:29.888Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 11%
+2023-08-01T16:34:29.891Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 14%
+2023-08-01T16:34:29.893Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 15%
+2023-08-01T16:34:29.896Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 17%
+2023-08-01T16:34:29.903Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 20%
+2023-08-01T16:34:30.138Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 23%
+2023-08-01T16:34:30.141Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 25%
+2023-08-01T16:34:30.141Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 28%
+2023-08-01T16:34:30.142Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 30%
+2023-08-01T16:34:30.142Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 33%
+2023-08-01T16:34:30.142Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 42%
+2023-08-01T16:34:30.143Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 51%
+2023-08-01T16:34:30.143Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 55%
+2023-08-01T16:34:30.143Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 64%
+2023-08-01T16:34:30.144Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 69%
+2023-08-01T16:34:30.145Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 84%
+2023-08-01T16:34:30.145Z [Modules] Streaming discord_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip: 100%
+2023-08-01T16:34:30.147Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-08-01T16:34:30.147Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip
+2023-08-01T16:34:30.693Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 1%
+2023-08-01T16:34:30.698Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 2%
+2023-08-01T16:34:30.705Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 3%
+2023-08-01T16:34:30.717Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 4%
+2023-08-01T16:34:30.722Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 5%
+2023-08-01T16:34:30.727Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 6%
+2023-08-01T16:34:30.948Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 7%
+2023-08-01T16:34:30.949Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 8%
+2023-08-01T16:34:30.950Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 9%
+2023-08-01T16:34:30.951Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 10%
+2023-08-01T16:34:30.965Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 11%
+2023-08-01T16:34:30.965Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 12%
+2023-08-01T16:34:30.966Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 13%
+2023-08-01T16:34:30.967Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 14%
+2023-08-01T16:34:30.967Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 15%
+2023-08-01T16:34:31.105Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 16%
+2023-08-01T16:34:31.156Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 17%
+2023-08-01T16:34:31.157Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 18%
+2023-08-01T16:34:31.158Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 20%
+2023-08-01T16:34:31.158Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 21%
+2023-08-01T16:34:31.159Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 22%
+2023-08-01T16:34:31.159Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 23%
+2023-08-01T16:34:31.159Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 24%
+2023-08-01T16:34:31.160Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 25%
+2023-08-01T16:34:31.160Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 26%
+2023-08-01T16:34:31.266Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 27%
+2023-08-01T16:34:31.317Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 28%
+2023-08-01T16:34:31.326Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 29%
+2023-08-01T16:34:31.331Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 30%
+2023-08-01T16:34:31.340Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 31%
+2023-08-01T16:34:31.346Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 32%
+2023-08-01T16:34:31.354Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 33%
+2023-08-01T16:34:31.359Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 34%
+2023-08-01T16:34:31.412Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 35%
+2023-08-01T16:34:31.417Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 36%
+2023-08-01T16:34:31.424Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 37%
+2023-08-01T16:34:31.436Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 38%
+2023-08-01T16:34:31.442Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 39%
+2023-08-01T16:34:31.450Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 40%
+2023-08-01T16:34:31.460Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 41%
+2023-08-01T16:34:31.471Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 42%
+2023-08-01T16:34:31.482Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 43%
+2023-08-01T16:34:31.490Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 44%
+2023-08-01T16:34:31.504Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 45%
+2023-08-01T16:34:31.508Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 46%
+2023-08-01T16:34:31.524Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 47%
+2023-08-01T16:34:31.531Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 48%
+2023-08-01T16:34:31.537Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 49%
+2023-08-01T16:34:31.565Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 50%
+2023-08-01T16:34:31.592Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 51%
+2023-08-01T16:34:31.599Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 52%
+2023-08-01T16:34:31.608Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 53%
+2023-08-01T16:34:31.616Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 54%
+2023-08-01T16:34:31.628Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 55%
+2023-08-01T16:34:31.633Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 56%
+2023-08-01T16:34:31.641Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 57%
+2023-08-01T16:34:31.647Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 58%
+2023-08-01T16:34:31.657Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 59%
+2023-08-01T16:34:31.663Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 60%
+2023-08-01T16:34:31.670Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 61%
+2023-08-01T16:34:31.702Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 62%
+2023-08-01T16:34:31.712Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 63%
+2023-08-01T16:34:31.724Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 64%
+2023-08-01T16:34:31.738Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 65%
+2023-08-01T16:34:31.753Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 66%
+2023-08-01T16:34:31.759Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 67%
+2023-08-01T16:34:31.769Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 68%
+2023-08-01T16:34:31.795Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 69%
+2023-08-01T16:34:31.832Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 70%
+2023-08-01T16:34:31.837Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 71%
+2023-08-01T16:34:31.845Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 72%
+2023-08-01T16:34:31.851Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 73%
+2023-08-01T16:34:31.856Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 74%
+2023-08-01T16:34:31.862Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 75%
+2023-08-01T16:34:31.868Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 76%
+2023-08-01T16:34:31.872Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 77%
+2023-08-01T16:34:31.883Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 78%
+2023-08-01T16:34:31.893Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 79%
+2023-08-01T16:34:31.902Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 80%
+2023-08-01T16:34:31.909Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 81%
+2023-08-01T16:34:31.919Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 82%
+2023-08-01T16:34:31.943Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 83%
+2023-08-01T16:34:31.953Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 84%
+2023-08-01T16:34:31.988Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 85%
+2023-08-01T16:34:32.045Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 86%
+2023-08-01T16:34:32.059Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 87%
+2023-08-01T16:34:32.066Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 88%
+2023-08-01T16:34:32.085Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 89%
+2023-08-01T16:34:32.096Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 90%
+2023-08-01T16:34:32.103Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 91%
+2023-08-01T16:34:32.111Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 92%
+2023-08-01T16:34:32.123Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 93%
+2023-08-01T16:34:32.130Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 94%
+2023-08-01T16:34:32.140Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 95%
+2023-08-01T16:34:32.146Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 96%
+2023-08-01T16:34:32.151Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 97%
+2023-08-01T16:34:32.160Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 98%
+2023-08-01T16:34:32.169Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 99%
+2023-08-01T16:34:32.174Z [Modules] Streaming discord_voice@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip: 100%
+2023-08-01T16:34:32.175Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-08-01T16:34:32.175Z [Modules] Installing updates...
+2023-08-01T16:34:32.175Z [Modules] Installing discord_desktop_core@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_desktop_core-1.zip
+2023-08-01T16:34:32.232Z [Modules] Installing discord_erlpack@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_erlpack-1.zip
+2023-08-01T16:34:32.272Z [Modules] Installing discord_spellcheck@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_spellcheck-1.zip
+2023-08-01T16:34:32.646Z [Modules] Installing discord_utils@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-1.zip
+2023-08-01T16:34:32.864Z [Modules] Installing discord_voice@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-1.zip
+2023-08-01T16:34:33.335Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-08-01T16:34:33.335Z [Modules] Checking for host updates.
+2023-08-01T16:34:33.718Z [Modules] Host is up to date.
+2023-08-01T16:34:33.718Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-01T16:34:33.720Z [Modules] No module updates available.
+2023-08-01T16:34:35.351Z [Modules] Starting to install discord_krisp...
+2023-08-01T16:34:35.351Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-08-01T16:34:35.352Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip
+2023-08-01T16:34:35.362Z [Modules] Starting to install discord_game_utils...
+2023-08-01T16:34:35.908Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 1%
+2023-08-01T16:34:35.914Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 2%
+2023-08-01T16:34:35.923Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 3%
+2023-08-01T16:34:35.939Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 4%
+2023-08-01T16:34:35.945Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 5%
+2023-08-01T16:34:35.952Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 6%
+2023-08-01T16:34:35.965Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 7%
+2023-08-01T16:34:35.972Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 8%
+2023-08-01T16:34:35.984Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 9%
+2023-08-01T16:34:35.996Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 10%
+2023-08-01T16:34:36.001Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 11%
+2023-08-01T16:34:36.010Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 12%
+2023-08-01T16:34:36.017Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 13%
+2023-08-01T16:34:36.056Z [Modules] Checking for host updates.
+2023-08-01T16:34:36.067Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 14%
+2023-08-01T16:34:36.086Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 15%
+2023-08-01T16:34:36.094Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 16%
+2023-08-01T16:34:36.105Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 17%
+2023-08-01T16:34:36.117Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 18%
+2023-08-01T16:34:36.124Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 19%
+2023-08-01T16:34:36.129Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 20%
+2023-08-01T16:34:36.143Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 21%
+2023-08-01T16:34:36.178Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 22%
+2023-08-01T16:34:36.186Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 23%
+2023-08-01T16:34:36.193Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 24%
+2023-08-01T16:34:36.198Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 25%
+2023-08-01T16:34:36.204Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 26%
+2023-08-01T16:34:36.210Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 27%
+2023-08-01T16:34:36.225Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 28%
+2023-08-01T16:34:36.247Z [Modules] Starting to install discord_rpc...
+2023-08-01T16:34:36.255Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 29%
+2023-08-01T16:34:36.287Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 30%
+2023-08-01T16:34:36.295Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 31%
+2023-08-01T16:34:36.306Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 32%
+2023-08-01T16:34:36.312Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 33%
+2023-08-01T16:34:36.318Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 34%
+2023-08-01T16:34:36.327Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 35%
+2023-08-01T16:34:36.373Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 36%
+2023-08-01T16:34:36.381Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 37%
+2023-08-01T16:34:36.391Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 38%
+2023-08-01T16:34:36.404Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 39%
+2023-08-01T16:34:36.408Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 40%
+2023-08-01T16:34:36.414Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 41%
+2023-08-01T16:34:36.420Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 42%
+2023-08-01T16:34:36.425Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 43%
+2023-08-01T16:34:36.432Z [Modules] Host is up to date.
+2023-08-01T16:34:36.432Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-01T16:34:36.434Z [Modules] No module updates available.
+2023-08-01T16:34:36.452Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 44%
+2023-08-01T16:34:36.493Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 45%
+2023-08-01T16:34:36.501Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 46%
+2023-08-01T16:34:36.508Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 47%
+2023-08-01T16:34:36.512Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 48%
+2023-08-01T16:34:36.523Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 49%
+2023-08-01T16:34:36.539Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 50%
+2023-08-01T16:34:36.556Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 51%
+2023-08-01T16:34:36.595Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 52%
+2023-08-01T16:34:36.601Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 53%
+2023-08-01T16:34:36.610Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 54%
+2023-08-01T16:34:36.621Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 55%
+2023-08-01T16:34:36.627Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 56%
+2023-08-01T16:34:36.639Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 57%
+2023-08-01T16:34:36.649Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 58%
+2023-08-01T16:34:36.654Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 59%
+2023-08-01T16:34:36.671Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 60%
+2023-08-01T16:34:36.678Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 61%
+2023-08-01T16:34:36.688Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 62%
+2023-08-01T16:34:36.696Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 63%
+2023-08-01T16:34:36.702Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 64%
+2023-08-01T16:34:36.717Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 65%
+2023-08-01T16:34:36.767Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 66%
+2023-08-01T16:34:36.791Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 67%
+2023-08-01T16:34:36.799Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 68%
+2023-08-01T16:34:36.811Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 69%
+2023-08-01T16:34:36.817Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 70%
+2023-08-01T16:34:36.822Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 71%
+2023-08-01T16:34:37.293Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 72%
+2023-08-01T16:34:37.600Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 73%
+2023-08-01T16:34:37.601Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 74%
+2023-08-01T16:34:37.603Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 75%
+2023-08-01T16:34:37.604Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 76%
+2023-08-01T16:34:37.606Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 77%
+2023-08-01T16:34:37.609Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 78%
+2023-08-01T16:34:37.609Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 79%
+2023-08-01T16:34:37.610Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 80%
+2023-08-01T16:34:37.611Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 81%
+2023-08-01T16:34:37.611Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 82%
+2023-08-01T16:34:37.612Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 83%
+2023-08-01T16:34:37.613Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 84%
+2023-08-01T16:34:37.613Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 85%
+2023-08-01T16:34:37.613Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 86%
+2023-08-01T16:34:37.788Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 87%
+2023-08-01T16:34:37.799Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 88%
+2023-08-01T16:34:37.804Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 89%
+2023-08-01T16:34:37.816Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 90%
+2023-08-01T16:34:37.833Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 91%
+2023-08-01T16:34:37.843Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 92%
+2023-08-01T16:34:37.856Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 93%
+2023-08-01T16:34:37.865Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 94%
+2023-08-01T16:34:37.870Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 95%
+2023-08-01T16:34:37.879Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 96%
+2023-08-01T16:34:37.889Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 97%
+2023-08-01T16:34:37.896Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 98%
+2023-08-01T16:34:37.903Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 99%
+2023-08-01T16:34:37.912Z [Modules] Streaming discord_krisp@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip: 100%
+2023-08-01T16:34:37.913Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-08-01T16:34:37.913Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip
+2023-08-01T16:34:37.913Z [Modules] Installing discord_krisp@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_krisp-1.zip
+2023-08-01T16:34:38.295Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-08-01T16:34:38.488Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 1%
+2023-08-01T16:34:38.490Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 3%
+2023-08-01T16:34:38.490Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 5%
+2023-08-01T16:34:38.492Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 7%
+2023-08-01T16:34:38.494Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 10%
+2023-08-01T16:34:38.495Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 13%
+2023-08-01T16:34:38.497Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 15%
+2023-08-01T16:34:38.499Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 17%
+2023-08-01T16:34:38.503Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 20%
+2023-08-01T16:34:38.505Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 23%
+2023-08-01T16:34:38.507Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 26%
+2023-08-01T16:34:38.509Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 28%
+2023-08-01T16:34:38.509Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 29%
+2023-08-01T16:34:38.510Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 31%
+2023-08-01T16:34:38.512Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 34%
+2023-08-01T16:34:38.514Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 37%
+2023-08-01T16:34:38.515Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 39%
+2023-08-01T16:34:38.520Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 42%
+2023-08-01T16:34:38.522Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 45%
+2023-08-01T16:34:38.524Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 48%
+2023-08-01T16:34:38.526Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 50%
+2023-08-01T16:34:38.527Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 53%
+2023-08-01T16:34:38.530Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 55%
+2023-08-01T16:34:38.534Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 58%
+2023-08-01T16:34:38.545Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 61%
+2023-08-01T16:34:38.546Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 63%
+2023-08-01T16:34:38.547Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 64%
+2023-08-01T16:34:38.555Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 67%
+2023-08-01T16:34:38.555Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 69%
+2023-08-01T16:34:38.555Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 70%
+2023-08-01T16:34:38.557Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 72%
+2023-08-01T16:34:38.559Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 75%
+2023-08-01T16:34:38.560Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 78%
+2023-08-01T16:34:38.562Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 80%
+2023-08-01T16:34:38.564Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 83%
+2023-08-01T16:34:38.565Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 85%
+2023-08-01T16:34:38.565Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 86%
+2023-08-01T16:34:38.567Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 88%
+2023-08-01T16:34:38.569Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 91%
+2023-08-01T16:34:38.570Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 94%
+2023-08-01T16:34:38.572Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 96%
+2023-08-01T16:34:38.574Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 99%
+2023-08-01T16:34:38.574Z [Modules] Streaming discord_game_utils@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip: 100%
+2023-08-01T16:34:38.575Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-08-01T16:34:38.575Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip
+2023-08-01T16:34:38.575Z [Modules] Installing discord_game_utils@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-1.zip
+2023-08-01T16:34:38.627Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-08-01T16:34:39.124Z [Modules] Streaming discord_rpc@1 to /home/sam/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip: 100%
+2023-08-01T16:34:39.125Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-08-01T16:34:39.125Z [Modules] Installing discord_rpc@1 from /home/sam/.config/discord/0.0.28/modules/pending/discord_rpc-1.zip
+2023-08-01T16:34:39.143Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2023-08-01T17:34:36.058Z [Modules] Checking for host updates.
+2023-08-01T17:34:36.603Z [Modules] Host is up to date.
+2023-08-01T17:34:36.603Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-01T17:34:36.666Z [Modules] No module updates available.
+2023-08-01T18:34:36.058Z [Modules] Checking for host updates.
+2023-08-01T18:34:36.510Z [Modules] Host is up to date.
+2023-08-01T18:34:36.510Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-01T18:34:36.564Z [Modules] No module updates available.
+2023-08-02T18:12:07.557Z [Modules] Modules initializing
+2023-08-02T18:12:07.558Z [Modules] Distribution: remote
+2023-08-02T18:12:07.558Z [Modules] Host updates: enabled
+2023-08-02T18:12:07.558Z [Modules] Module updates: enabled
+2023-08-02T18:12:07.559Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-02T18:12:07.559Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-02T18:12:07.559Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-02T18:12:10.076Z [Modules] No updates to install
+2023-08-02T18:12:10.077Z [Modules] Checking for host updates.
+2023-08-02T18:12:10.449Z [Modules] Host is up to date.
+2023-08-02T18:12:10.450Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-02T18:12:10.470Z [Modules] No module updates available.
+2023-08-02T18:12:12.592Z [Modules] Checking for host updates.
+2023-08-02T18:12:12.983Z [Modules] Host is up to date.
+2023-08-02T18:12:12.983Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-02T18:12:12.986Z [Modules] No module updates available.
+2023-08-02T19:12:12.593Z [Modules] Checking for host updates.
+2023-08-02T19:12:12.942Z [Modules] Host is up to date.
+2023-08-02T19:12:12.942Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-02T19:12:12.991Z [Modules] No module updates available.
+2023-08-04T14:51:03.127Z [Modules] Modules initializing
+2023-08-04T14:51:03.128Z [Modules] Distribution: remote
+2023-08-04T14:51:03.128Z [Modules] Host updates: enabled
+2023-08-04T14:51:03.128Z [Modules] Module updates: enabled
+2023-08-04T14:51:03.128Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-04T14:51:03.129Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-04T14:51:03.129Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-04T14:51:05.703Z [Modules] No updates to install
+2023-08-04T14:51:05.704Z [Modules] Checking for host updates.
+2023-08-04T14:51:06.224Z [Modules] Host is up to date.
+2023-08-04T14:51:06.224Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-04T14:51:06.270Z [Modules] No module updates available.
+2023-08-04T14:51:08.410Z [Modules] Checking for host updates.
+2023-08-04T14:51:08.767Z [Modules] Host is up to date.
+2023-08-04T14:51:08.767Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-04T14:51:08.770Z [Modules] No module updates available.
+2023-08-04T16:47:02.087Z [Modules] Checking for host updates.
+2023-08-04T16:47:02.465Z [Modules] Host is up to date.
+2023-08-04T16:47:02.466Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-04T16:47:02.492Z [Modules] No module updates available.
+2023-08-04T17:47:03.694Z [Modules] Checking for host updates.
+2023-08-04T17:47:04.072Z [Modules] Host is up to date.
+2023-08-04T17:47:04.072Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-04T17:47:04.095Z [Modules] No module updates available.
+2023-08-05T02:05:57.695Z [Modules] Checking for host updates.
+2023-08-05T02:05:58.059Z [Modules] Host is up to date.
+2023-08-05T02:05:58.059Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T02:05:58.112Z [Modules] No module updates available.
+2023-08-05T09:32:52.140Z [Modules] Modules initializing
+2023-08-05T09:32:52.141Z [Modules] Distribution: remote
+2023-08-05T09:32:52.141Z [Modules] Host updates: enabled
+2023-08-05T09:32:52.141Z [Modules] Module updates: enabled
+2023-08-05T09:32:52.141Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-05T09:32:52.141Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-05T09:32:52.141Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-05T09:32:54.671Z [Modules] No updates to install
+2023-08-05T09:32:54.671Z [Modules] Checking for host updates.
+2023-08-05T09:32:55.116Z [Modules] Host is up to date.
+2023-08-05T09:32:55.117Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T09:32:55.143Z [Modules] No module updates available.
+2023-08-05T09:32:57.332Z [Modules] Checking for host updates.
+2023-08-05T09:32:57.983Z [Modules] Host is up to date.
+2023-08-05T09:32:57.983Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T09:32:57.985Z [Modules] No module updates available.
+2023-08-05T10:32:58.527Z [Modules] Checking for host updates.
+2023-08-05T10:32:58.952Z [Modules] Host is up to date.
+2023-08-05T10:32:58.952Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T10:32:58.992Z [Modules] No module updates available.
+2023-08-05T16:15:43.179Z [Modules] Checking for host updates.
+2023-08-05T16:15:43.550Z [Modules] Host is up to date.
+2023-08-05T16:15:43.551Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T16:15:43.574Z [Modules] No module updates available.
+2023-08-05T17:15:43.177Z [Modules] Checking for host updates.
+2023-08-05T17:15:43.540Z [Modules] Host is up to date.
+2023-08-05T17:15:43.540Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T17:15:43.590Z [Modules] No module updates available.
+2023-08-05T18:15:43.180Z [Modules] Checking for host updates.
+2023-08-05T18:15:43.607Z [Modules] Host is up to date.
+2023-08-05T18:15:43.608Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-05T18:15:43.660Z [Modules] No module updates available.
+2023-08-06T06:32:51.351Z [Modules] Modules initializing
+2023-08-06T06:32:51.352Z [Modules] Distribution: remote
+2023-08-06T06:32:51.352Z [Modules] Host updates: enabled
+2023-08-06T06:32:51.352Z [Modules] Module updates: enabled
+2023-08-06T06:32:51.353Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-06T06:32:51.353Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-06T06:32:51.353Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-06T06:32:53.900Z [Modules] No updates to install
+2023-08-06T06:32:53.900Z [Modules] Checking for host updates.
+2023-08-06T06:32:54.316Z [Modules] Host is up to date.
+2023-08-06T06:32:54.316Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T06:32:54.357Z [Modules] No module updates available.
+2023-08-06T06:32:56.436Z [Modules] Checking for host updates.
+2023-08-06T06:32:56.819Z [Modules] Host is up to date.
+2023-08-06T06:32:56.819Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T06:32:56.821Z [Modules] No module updates available.
+2023-08-06T07:52:57.065Z [Modules] Checking for host updates.
+2023-08-06T07:52:57.410Z [Modules] Host is up to date.
+2023-08-06T07:52:57.410Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T07:52:57.434Z [Modules] No module updates available.
+2023-08-06T08:52:57.064Z [Modules] Checking for host updates.
+2023-08-06T08:52:57.508Z [Modules] Host is up to date.
+2023-08-06T08:52:57.508Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T08:52:57.532Z [Modules] No module updates available.
+2023-08-06T17:03:39.689Z [Modules] Checking for host updates.
+2023-08-06T17:03:40.146Z [Modules] Host is up to date.
+2023-08-06T17:03:40.146Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T17:03:40.169Z [Modules] No module updates available.
+2023-08-06T18:03:41.656Z [Modules] Checking for host updates.
+2023-08-06T18:03:41.989Z [Modules] Host is up to date.
+2023-08-06T18:03:41.989Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-06T18:03:42.010Z [Modules] No module updates available.
+2023-08-07T16:45:39.968Z [Modules] Checking for host updates.
+2023-08-07T16:45:40.370Z [Modules] Host is up to date.
+2023-08-07T16:45:40.370Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-07T16:45:40.392Z [Modules] No module updates available.
+2023-08-07T17:45:40.744Z [Modules] Checking for host updates.
+2023-08-07T17:45:41.122Z [Modules] Host is up to date.
+2023-08-07T17:45:41.122Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-07T17:45:41.147Z [Modules] No module updates available.
+2023-08-08T06:49:11.978Z [Modules] Checking for host updates.
+2023-08-08T06:49:12.504Z [Modules] Host is up to date.
+2023-08-08T06:49:12.504Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-08T06:49:12.529Z [Modules] Module update available: discord_utils@2 [installed: 1]
+2023-08-08T06:49:12.529Z [Modules] Module update available: discord_voice@2 [installed: 1]
+2023-08-08T06:49:12.529Z [Modules] Module update available: discord_game_utils@2 [installed: 1]
+2023-08-08T06:49:12.530Z [Modules] Fetching discord_utils@2 from https://discord.com/api/modules/stable/discord_utils/2
+2023-08-08T06:49:12.530Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip
+2023-08-08T06:49:13.596Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 1%
+2023-08-08T06:49:13.722Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 2%
+2023-08-08T06:49:13.821Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 3%
+2023-08-08T06:49:13.868Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 4%
+2023-08-08T06:49:13.911Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 5%
+2023-08-08T06:49:13.954Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 6%
+2023-08-08T06:49:13.994Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 7%
+2023-08-08T06:49:14.018Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 8%
+2023-08-08T06:49:14.042Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 9%
+2023-08-08T06:49:14.060Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 10%
+2023-08-08T06:49:14.087Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 11%
+2023-08-08T06:49:14.102Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 12%
+2023-08-08T06:49:14.117Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 13%
+2023-08-08T06:49:14.131Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 14%
+2023-08-08T06:49:14.144Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 15%
+2023-08-08T06:49:14.164Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 16%
+2023-08-08T06:49:14.175Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 17%
+2023-08-08T06:49:14.187Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 18%
+2023-08-08T06:49:14.198Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 19%
+2023-08-08T06:49:14.208Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 20%
+2023-08-08T06:49:14.222Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 21%
+2023-08-08T06:49:14.230Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 22%
+2023-08-08T06:49:14.239Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 23%
+2023-08-08T06:49:14.248Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 24%
+2023-08-08T06:49:14.256Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 25%
+2023-08-08T06:49:14.267Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 26%
+2023-08-08T06:49:14.274Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 27%
+2023-08-08T06:49:14.281Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 28%
+2023-08-08T06:49:14.287Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 29%
+2023-08-08T06:49:14.293Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 30%
+2023-08-08T06:49:14.303Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 31%
+2023-08-08T06:49:14.309Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 32%
+2023-08-08T06:49:14.322Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 33%
+2023-08-08T06:49:14.327Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 34%
+2023-08-08T06:49:14.334Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 35%
+2023-08-08T06:49:14.342Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 36%
+2023-08-08T06:49:14.347Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 37%
+2023-08-08T06:49:14.351Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 38%
+2023-08-08T06:49:14.356Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 39%
+2023-08-08T06:49:14.360Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 40%
+2023-08-08T06:49:14.367Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 41%
+2023-08-08T06:49:14.372Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 42%
+2023-08-08T06:49:14.376Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 43%
+2023-08-08T06:49:14.380Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 44%
+2023-08-08T06:49:14.384Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 45%
+2023-08-08T06:49:14.392Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 46%
+2023-08-08T06:49:14.395Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 47%
+2023-08-08T06:49:14.400Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 48%
+2023-08-08T06:49:14.403Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 49%
+2023-08-08T06:49:14.407Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 50%
+2023-08-08T06:49:14.412Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 51%
+2023-08-08T06:49:14.416Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 52%
+2023-08-08T06:49:14.421Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 53%
+2023-08-08T06:49:14.423Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 54%
+2023-08-08T06:49:14.427Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 55%
+2023-08-08T06:49:14.430Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 56%
+2023-08-08T06:49:14.436Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 57%
+2023-08-08T06:49:14.439Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 58%
+2023-08-08T06:49:14.442Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 59%
+2023-08-08T06:49:14.445Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 60%
+2023-08-08T06:49:14.448Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 61%
+2023-08-08T06:49:14.453Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 62%
+2023-08-08T06:49:14.457Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 63%
+2023-08-08T06:49:14.460Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 64%
+2023-08-08T06:49:14.462Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 65%
+2023-08-08T06:49:14.479Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 66%
+2023-08-08T06:49:14.482Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 67%
+2023-08-08T06:49:14.485Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 68%
+2023-08-08T06:49:14.488Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 69%
+2023-08-08T06:49:14.492Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 70%
+2023-08-08T06:49:14.493Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 71%
+2023-08-08T06:49:14.499Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 72%
+2023-08-08T06:49:14.503Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 73%
+2023-08-08T06:49:14.504Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 74%
+2023-08-08T06:49:14.506Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 75%
+2023-08-08T06:49:14.510Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 76%
+2023-08-08T06:49:14.513Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 77%
+2023-08-08T06:49:14.516Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 79%
+2023-08-08T06:49:14.521Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 81%
+2023-08-08T06:49:14.524Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 82%
+2023-08-08T06:49:14.528Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 83%
+2023-08-08T06:49:14.530Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 84%
+2023-08-08T06:49:14.533Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 86%
+2023-08-08T06:49:14.537Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 87%
+2023-08-08T06:49:14.542Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 89%
+2023-08-08T06:49:14.544Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 90%
+2023-08-08T06:49:14.547Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 91%
+2023-08-08T06:49:14.549Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 93%
+2023-08-08T06:49:14.552Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 94%
+2023-08-08T06:49:14.555Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 95%
+2023-08-08T06:49:14.558Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 97%
+2023-08-08T06:49:14.563Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 98%
+2023-08-08T06:49:14.564Z [Modules] Streaming discord_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip: 100%
+2023-08-08T06:49:14.574Z [Modules] Fetching discord_voice@2 from https://discord.com/api/modules/stable/discord_voice/2
+2023-08-08T06:49:14.574Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip
+2023-08-08T06:49:15.103Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 1%
+2023-08-08T06:49:15.110Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 2%
+2023-08-08T06:49:15.114Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 3%
+2023-08-08T06:49:15.120Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 4%
+2023-08-08T06:49:15.130Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 5%
+2023-08-08T06:49:15.135Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 6%
+2023-08-08T06:49:15.139Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 7%
+2023-08-08T06:49:15.151Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 8%
+2023-08-08T06:49:15.157Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 9%
+2023-08-08T06:49:15.166Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 10%
+2023-08-08T06:49:15.170Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 11%
+2023-08-08T06:49:15.175Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 12%
+2023-08-08T06:49:15.181Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 13%
+2023-08-08T06:49:15.187Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 14%
+2023-08-08T06:49:15.196Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 15%
+2023-08-08T06:49:15.260Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 16%
+2023-08-08T06:49:15.277Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 17%
+2023-08-08T06:49:15.283Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 18%
+2023-08-08T06:49:15.290Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 19%
+2023-08-08T06:49:15.296Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 20%
+2023-08-08T06:49:15.301Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 21%
+2023-08-08T06:49:15.309Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 22%
+2023-08-08T06:49:15.337Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 23%
+2023-08-08T06:49:15.343Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 24%
+2023-08-08T06:49:15.351Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 25%
+2023-08-08T06:49:15.354Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 26%
+2023-08-08T06:49:15.360Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 27%
+2023-08-08T06:49:15.367Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 28%
+2023-08-08T06:49:15.376Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 29%
+2023-08-08T06:49:15.380Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 30%
+2023-08-08T06:49:15.414Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 31%
+2023-08-08T06:49:15.419Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 32%
+2023-08-08T06:49:15.471Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 33%
+2023-08-08T06:49:15.479Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 34%
+2023-08-08T06:49:15.485Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 35%
+2023-08-08T06:49:15.491Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 36%
+2023-08-08T06:49:15.495Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 37%
+2023-08-08T06:49:15.501Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 38%
+2023-08-08T06:49:15.504Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 39%
+2023-08-08T06:49:15.523Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 40%
+2023-08-08T06:49:15.533Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 41%
+2023-08-08T06:49:15.536Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 42%
+2023-08-08T06:49:15.541Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 43%
+2023-08-08T06:49:15.553Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 44%
+2023-08-08T06:49:15.560Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 45%
+2023-08-08T06:49:15.565Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 46%
+2023-08-08T06:49:15.573Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 47%
+2023-08-08T06:49:15.618Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 48%
+2023-08-08T06:49:15.659Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 49%
+2023-08-08T06:49:15.663Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 50%
+2023-08-08T06:49:15.669Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 51%
+2023-08-08T06:49:15.677Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 52%
+2023-08-08T06:49:15.685Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 53%
+2023-08-08T06:49:15.689Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 54%
+2023-08-08T06:49:15.697Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 55%
+2023-08-08T06:49:15.701Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 56%
+2023-08-08T06:49:15.705Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 57%
+2023-08-08T06:49:15.712Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 58%
+2023-08-08T06:49:15.733Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 59%
+2023-08-08T06:49:15.737Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 60%
+2023-08-08T06:49:15.745Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 61%
+2023-08-08T06:49:15.758Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 62%
+2023-08-08T06:49:15.763Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 63%
+2023-08-08T06:49:15.785Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 64%
+2023-08-08T06:49:15.826Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 65%
+2023-08-08T06:49:15.833Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 66%
+2023-08-08T06:49:15.847Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 67%
+2023-08-08T06:49:15.856Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 68%
+2023-08-08T06:49:15.860Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 69%
+2023-08-08T06:49:15.864Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 70%
+2023-08-08T06:49:15.872Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 71%
+2023-08-08T06:49:15.881Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 72%
+2023-08-08T06:49:15.887Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 73%
+2023-08-08T06:49:15.891Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 74%
+2023-08-08T06:49:15.897Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 75%
+2023-08-08T06:49:15.901Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 76%
+2023-08-08T06:49:15.905Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 77%
+2023-08-08T06:49:15.916Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 78%
+2023-08-08T06:49:15.938Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 79%
+2023-08-08T06:49:16.144Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 80%
+2023-08-08T06:49:16.154Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 81%
+2023-08-08T06:49:16.155Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 82%
+2023-08-08T06:49:16.155Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 83%
+2023-08-08T06:49:16.156Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 84%
+2023-08-08T06:49:16.157Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 85%
+2023-08-08T06:49:16.157Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 86%
+2023-08-08T06:49:16.158Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 87%
+2023-08-08T06:49:16.158Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 88%
+2023-08-08T06:49:16.159Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 89%
+2023-08-08T06:49:16.160Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 90%
+2023-08-08T06:49:16.161Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 91%
+2023-08-08T06:49:16.161Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 92%
+2023-08-08T06:49:16.161Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 93%
+2023-08-08T06:49:16.162Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 94%
+2023-08-08T06:49:16.171Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 95%
+2023-08-08T06:49:16.311Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 96%
+2023-08-08T06:49:16.321Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 97%
+2023-08-08T06:49:16.328Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 98%
+2023-08-08T06:49:16.339Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 99%
+2023-08-08T06:49:16.344Z [Modules] Streaming discord_voice@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip: 100%
+2023-08-08T06:49:16.345Z [Modules] Fetching discord_game_utils@2 from https://discord.com/api/modules/stable/discord_game_utils/2
+2023-08-08T06:49:16.345Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip
+2023-08-08T06:49:16.865Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 2%
+2023-08-08T06:49:16.866Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 3%
+2023-08-08T06:49:16.867Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 6%
+2023-08-08T06:49:16.869Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 9%
+2023-08-08T06:49:16.870Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 11%
+2023-08-08T06:49:16.872Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 14%
+2023-08-08T06:49:16.873Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 17%
+2023-08-08T06:49:16.877Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 20%
+2023-08-08T06:49:16.879Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 23%
+2023-08-08T06:49:16.883Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 25%
+2023-08-08T06:49:16.884Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 28%
+2023-08-08T06:49:16.886Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 30%
+2023-08-08T06:49:16.886Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 31%
+2023-08-08T06:49:16.887Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 34%
+2023-08-08T06:49:16.889Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 36%
+2023-08-08T06:49:16.890Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 39%
+2023-08-08T06:49:16.894Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 42%
+2023-08-08T06:49:16.899Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 45%
+2023-08-08T06:49:16.904Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 48%
+2023-08-08T06:49:16.905Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 50%
+2023-08-08T06:49:16.908Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 52%
+2023-08-08T06:49:16.910Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 53%
+2023-08-08T06:49:16.912Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 55%
+2023-08-08T06:49:16.914Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 58%
+2023-08-08T06:49:16.915Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 61%
+2023-08-08T06:49:16.917Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 63%
+2023-08-08T06:49:16.918Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 66%
+2023-08-08T06:49:16.920Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 67%
+2023-08-08T06:49:16.923Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 70%
+2023-08-08T06:49:16.925Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 71%
+2023-08-08T06:49:16.928Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 73%
+2023-08-08T06:49:16.930Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 76%
+2023-08-08T06:49:16.931Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 79%
+2023-08-08T06:49:16.933Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 81%
+2023-08-08T06:49:16.934Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 82%
+2023-08-08T06:49:16.934Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 84%
+2023-08-08T06:49:16.937Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 87%
+2023-08-08T06:49:16.939Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 90%
+2023-08-08T06:49:16.940Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 92%
+2023-08-08T06:49:16.941Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 95%
+2023-08-08T06:49:16.943Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 98%
+2023-08-08T06:49:16.944Z [Modules] Streaming discord_game_utils@2 to /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip: 100%
+2023-08-08T06:49:16.945Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-08-12T23:38:04.625Z [Modules] Modules initializing
+2023-08-12T23:38:04.625Z [Modules] Distribution: remote
+2023-08-12T23:38:04.625Z [Modules] Host updates: enabled
+2023-08-12T23:38:04.625Z [Modules] Module updates: enabled
+2023-08-12T23:38:04.626Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-12T23:38:04.626Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-12T23:38:04.626Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-12T23:38:07.194Z [Modules] Installing updates...
+2023-08-12T23:38:07.194Z [Modules] Installing discord_utils@2 from /home/sam/.config/discord/0.0.28/modules/pending/discord_utils-2.zip
+2023-08-12T23:38:07.473Z [Modules] Installing discord_voice@2 from /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-2.zip
+2023-08-12T23:38:07.928Z [Modules] Installing discord_game_utils@2 from /home/sam/.config/discord/0.0.28/modules/pending/discord_game_utils-2.zip
+2023-08-12T23:38:07.961Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-08-12T23:38:07.962Z [Modules] Checking for host updates.
+2023-08-12T23:38:08.507Z [Modules] Host is up to date.
+2023-08-12T23:38:08.508Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T23:38:08.912Z [Modules] No module updates available.
+2023-08-12T23:38:12.425Z [Modules] Checking for host updates.
+2023-08-12T23:38:12.817Z [Modules] Host is up to date.
+2023-08-12T23:38:12.818Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-12T23:38:12.968Z [Modules] No module updates available.
+2023-08-13T00:38:12.427Z [Modules] Checking for host updates.
+2023-08-13T00:38:13.033Z [Modules] Host is up to date.
+2023-08-13T00:38:13.033Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T00:38:13.092Z [Modules] No module updates available.
+2023-08-13T01:54:32.333Z [Modules] Checking for host updates.
+2023-08-13T01:54:32.893Z [Modules] Host is up to date.
+2023-08-13T01:54:32.893Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T01:54:33.266Z [Modules] No module updates available.
+2023-08-13T02:54:32.332Z [Modules] Checking for host updates.
+2023-08-13T02:54:32.925Z [Modules] Host is up to date.
+2023-08-13T02:54:32.926Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T02:54:33.295Z [Modules] No module updates available.
+2023-08-13T11:50:14.243Z [Modules] Checking for host updates.
+2023-08-13T11:50:14.355Z [Modules] Host update failed: Error: self signed certificate in certificate chain
+2023-08-13T13:14:08.116Z [Modules] Checking for host updates.
+2023-08-13T13:14:08.604Z [Modules] Host is up to date.
+2023-08-13T13:14:08.604Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T13:14:08.962Z [Modules] No module updates available.
+2023-08-13T14:14:08.115Z [Modules] Checking for host updates.
+2023-08-13T14:14:08.555Z [Modules] Host is up to date.
+2023-08-13T14:14:08.555Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T14:14:08.928Z [Modules] No module updates available.
+2023-08-13T15:14:08.117Z [Modules] Checking for host updates.
+2023-08-13T15:14:08.687Z [Modules] Host is up to date.
+2023-08-13T15:14:08.687Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T15:14:09.082Z [Modules] No module updates available.
+2023-08-13T18:09:26.037Z [Modules] Checking for host updates.
+2023-08-13T18:09:26.490Z [Modules] Host is up to date.
+2023-08-13T18:09:26.490Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T18:09:26.879Z [Modules] No module updates available.
+2023-08-13T20:37:57.290Z [Modules] Checking for host updates.
+2023-08-13T20:37:57.895Z [Modules] Host is up to date.
+2023-08-13T20:37:57.895Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T20:37:58.264Z [Modules] No module updates available.
+2023-08-13T21:37:57.289Z [Modules] Checking for host updates.
+2023-08-13T21:37:57.799Z [Modules] Host is up to date.
+2023-08-13T21:37:57.799Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T21:37:58.414Z [Modules] No module updates available.
+2023-08-13T22:38:19.769Z [Modules] Checking for host updates.
+2023-08-13T22:38:20.356Z [Modules] Host is up to date.
+2023-08-13T22:38:20.356Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-13T22:38:20.880Z [Modules] No module updates available.
+2023-08-14T08:05:24.546Z [Modules] Checking for host updates.
+2023-08-14T08:05:24.565Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-08-14T09:57:33.966Z [Modules] Checking for host updates.
+2023-08-14T09:57:34.004Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-08-14T20:36:20.469Z [Modules] Modules initializing
+2023-08-14T20:36:20.470Z [Modules] Distribution: remote
+2023-08-14T20:36:20.470Z [Modules] Host updates: enabled
+2023-08-14T20:36:20.470Z [Modules] Module updates: enabled
+2023-08-14T20:36:20.470Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-14T20:36:20.470Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-14T20:36:20.470Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-14T20:36:23.032Z [Modules] No updates to install
+2023-08-14T20:36:23.032Z [Modules] Checking for host updates.
+2023-08-14T20:36:23.525Z [Modules] Host is up to date.
+2023-08-14T20:36:23.526Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-14T20:36:23.886Z [Modules] No module updates available.
+2023-08-14T20:36:26.137Z [Modules] Checking for host updates.
+2023-08-14T20:36:26.507Z [Modules] Host is up to date.
+2023-08-14T20:36:26.507Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-14T20:36:26.557Z [Modules] No module updates available.
+2023-08-14T21:53:58.904Z [Modules] Checking for host updates.
+2023-08-14T21:53:59.388Z [Modules] Host is up to date.
+2023-08-14T21:53:59.389Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-14T21:53:59.862Z [Modules] No module updates available.
+2023-08-14T23:17:31.407Z [Modules] Checking for host updates.
+2023-08-14T23:17:31.984Z [Modules] Host is up to date.
+2023-08-14T23:17:31.984Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-14T23:17:32.342Z [Modules] No module updates available.
+2023-08-15T00:17:31.409Z [Modules] Checking for host updates.
+2023-08-15T00:17:31.998Z [Modules] Host is up to date.
+2023-08-15T00:17:31.998Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T00:17:32.367Z [Modules] No module updates available.
+2023-08-15T04:30:32.664Z [Modules] Checking for host updates.
+2023-08-15T04:30:32.758Z [Modules] Host update failed: Error: self signed certificate in certificate chain
+2023-08-15T05:30:32.662Z [Modules] Checking for host updates.
+2023-08-15T05:30:32.836Z [Modules] Host update failed: Error: self signed certificate in certificate chain
+2023-08-15T06:30:32.662Z [Modules] Checking for host updates.
+2023-08-15T06:30:32.722Z [Modules] Host update failed: Error: self signed certificate in certificate chain
+2023-08-15T07:30:32.670Z [Modules] Checking for host updates.
+2023-08-15T07:30:32.692Z [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+2023-08-15T14:49:09.661Z [Modules] Checking for host updates.
+2023-08-15T14:49:09.702Z [Modules] Host update failed: Error: self signed certificate in certificate chain
+2023-08-15T15:49:09.713Z [Modules] Checking for host updates.
+2023-08-15T15:49:10.239Z [Modules] Host is up to date.
+2023-08-15T15:49:10.239Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T15:49:10.616Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T15:49:10.617Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T15:49:10.617Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T15:49:12.138Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T15:49:12.139Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T22:57:19.682Z [Modules] Modules initializing
+2023-08-15T22:57:19.682Z [Modules] Distribution: remote
+2023-08-15T22:57:19.682Z [Modules] Host updates: enabled
+2023-08-15T22:57:19.682Z [Modules] Module updates: enabled
+2023-08-15T22:57:19.683Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-15T22:57:19.683Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-15T22:57:19.683Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-15T22:57:22.306Z [Modules] No updates to install
+2023-08-15T22:57:22.307Z [Modules] Checking for host updates.
+2023-08-15T22:57:22.765Z [Modules] Host is up to date.
+2023-08-15T22:57:22.765Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T22:57:23.131Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T22:57:23.132Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T22:57:23.132Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T22:57:24.660Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T22:57:24.660Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T22:57:34.664Z [Modules] Checking for host updates.
+2023-08-15T22:57:35.024Z [Modules] Host is up to date.
+2023-08-15T22:57:35.024Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T22:57:35.081Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T22:57:35.081Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T22:57:35.081Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T22:57:36.452Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T22:57:36.453Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T22:57:56.457Z [Modules] Checking for host updates.
+2023-08-15T22:57:56.837Z [Modules] Host is up to date.
+2023-08-15T22:57:56.837Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T22:57:56.886Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T22:57:56.886Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T22:57:56.887Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T22:57:58.294Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T22:57:58.294Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T22:58:28.307Z [Modules] Checking for host updates.
+2023-08-15T22:58:29.455Z [Modules] Host is up to date.
+2023-08-15T22:58:29.456Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T22:58:29.504Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T22:58:29.504Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T22:58:29.505Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T22:58:30.881Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T22:58:30.881Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T22:59:10.904Z [Modules] Checking for host updates.
+2023-08-15T22:59:11.276Z [Modules] Host is up to date.
+2023-08-15T22:59:11.277Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T22:59:11.324Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T22:59:11.324Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T22:59:11.324Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T22:59:12.675Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T22:59:12.675Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T23:00:02.711Z [Modules] Checking for host updates.
+2023-08-15T23:00:03.076Z [Modules] Host is up to date.
+2023-08-15T23:00:03.076Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T23:00:03.441Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T23:00:03.441Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T23:00:03.441Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T23:00:04.801Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T23:00:04.801Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-15T23:01:04.847Z [Modules] Checking for host updates.
+2023-08-15T23:01:05.223Z [Modules] Host is up to date.
+2023-08-15T23:01:05.223Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-15T23:01:05.283Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-15T23:01:05.283Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-15T23:01:05.283Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-15T23:01:06.721Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-15T23:01:06.722Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:48:33.207Z [Modules] Modules initializing
+2023-08-16T20:48:33.208Z [Modules] Distribution: remote
+2023-08-16T20:48:33.208Z [Modules] Host updates: enabled
+2023-08-16T20:48:33.208Z [Modules] Module updates: enabled
+2023-08-16T20:48:33.208Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-16T20:48:33.208Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-16T20:48:33.209Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-16T20:48:35.785Z [Modules] No updates to install
+2023-08-16T20:48:35.786Z [Modules] Checking for host updates.
+2023-08-16T20:48:36.309Z [Modules] Host is up to date.
+2023-08-16T20:48:36.309Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:48:36.672Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:48:36.672Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:48:36.672Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:48:38.166Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:48:38.166Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:48:48.175Z [Modules] Checking for host updates.
+2023-08-16T20:48:48.574Z [Modules] Host is up to date.
+2023-08-16T20:48:48.574Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:48:48.638Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:48:48.638Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:48:48.638Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:48:49.988Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:48:49.988Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:49:09.992Z [Modules] Checking for host updates.
+2023-08-16T20:49:10.375Z [Modules] Host is up to date.
+2023-08-16T20:49:10.376Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:49:10.438Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:49:10.438Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:49:10.438Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:49:11.768Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:49:11.768Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:49:41.773Z [Modules] Checking for host updates.
+2023-08-16T20:49:42.151Z [Modules] Host is up to date.
+2023-08-16T20:49:42.151Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:49:42.227Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:49:42.227Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:49:42.227Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:49:43.491Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:49:43.491Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:50:23.515Z [Modules] Checking for host updates.
+2023-08-16T20:50:23.876Z [Modules] Host is up to date.
+2023-08-16T20:50:23.876Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:50:24.254Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:50:24.254Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:50:24.254Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:50:25.560Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:50:25.560Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:51:15.595Z [Modules] Checking for host updates.
+2023-08-16T20:51:15.979Z [Modules] Host is up to date.
+2023-08-16T20:51:15.979Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:51:16.039Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:51:16.040Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:51:16.040Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:51:17.415Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:51:17.416Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:52:17.458Z [Modules] Checking for host updates.
+2023-08-16T20:52:17.818Z [Modules] Host is up to date.
+2023-08-16T20:52:17.819Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:52:17.873Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:52:17.873Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:52:17.874Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:52:19.162Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:52:19.163Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:53:19.205Z [Modules] Checking for host updates.
+2023-08-16T20:53:19.597Z [Modules] Host is up to date.
+2023-08-16T20:53:19.597Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:53:19.651Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:53:19.651Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:53:19.651Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:53:20.888Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:53:20.889Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:54:20.934Z [Modules] Checking for host updates.
+2023-08-16T20:54:21.289Z [Modules] Host is up to date.
+2023-08-16T20:54:21.289Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:54:21.355Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:54:21.356Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:54:21.356Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:54:22.717Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:54:22.717Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:55:22.762Z [Modules] Checking for host updates.
+2023-08-16T20:55:23.210Z [Modules] Host is up to date.
+2023-08-16T20:55:23.210Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:55:23.571Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:55:23.572Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:55:23.572Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:55:24.966Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:55:24.967Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:56:25.011Z [Modules] Checking for host updates.
+2023-08-16T20:56:25.375Z [Modules] Host is up to date.
+2023-08-16T20:56:25.375Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:56:25.441Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:56:25.441Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:56:25.441Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:56:26.672Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:56:26.672Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:57:26.715Z [Modules] Checking for host updates.
+2023-08-16T20:57:27.081Z [Modules] Host is up to date.
+2023-08-16T20:57:27.081Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:57:27.133Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:57:27.133Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:57:27.133Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:57:28.374Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-16T20:57:28.374Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-16T20:58:28.418Z [Modules] Checking for host updates.
+2023-08-16T20:58:28.808Z [Modules] Host is up to date.
+2023-08-16T20:58:28.809Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-16T20:58:28.861Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-16T20:58:28.861Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-16T20:58:28.861Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-16T20:58:45.557Z [Modules] Failed fetching module discord_voice@3: Error: read ECONNRESET
+2023-08-16T20:58:45.557Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:45:27.303Z [Modules] Modules initializing
+2023-08-19T04:45:27.304Z [Modules] Distribution: remote
+2023-08-19T04:45:27.304Z [Modules] Host updates: enabled
+2023-08-19T04:45:27.304Z [Modules] Module updates: enabled
+2023-08-19T04:45:27.304Z [Modules] Module install path: /home/sam/.config/discord/0.0.28/modules
+2023-08-19T04:45:27.304Z [Modules] Module installed file path: /home/sam/.config/discord/0.0.28/modules/installed.json
+2023-08-19T04:45:27.304Z [Modules] Module download path: /home/sam/.config/discord/0.0.28/modules/pending
+2023-08-19T04:45:29.927Z [Modules] No updates to install
+2023-08-19T04:45:29.927Z [Modules] Checking for host updates.
+2023-08-19T04:45:30.523Z [Modules] Host is up to date.
+2023-08-19T04:45:30.523Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:45:30.891Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:45:30.892Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:45:30.893Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:45:32.414Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:45:32.415Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:45:42.426Z [Modules] Checking for host updates.
+2023-08-19T04:45:42.790Z [Modules] Host is up to date.
+2023-08-19T04:45:42.790Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:45:42.845Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:45:42.845Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:45:42.846Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:45:44.187Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:45:44.187Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:46:04.192Z [Modules] Checking for host updates.
+2023-08-19T04:46:04.567Z [Modules] Host is up to date.
+2023-08-19T04:46:04.568Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:46:04.625Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:46:04.625Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:46:04.625Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:46:05.976Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:46:05.976Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:46:35.989Z [Modules] Checking for host updates.
+2023-08-19T04:46:36.396Z [Modules] Host is up to date.
+2023-08-19T04:46:36.396Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:46:36.450Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:46:36.451Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:46:36.451Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:46:37.832Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:46:37.832Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:47:17.856Z [Modules] Checking for host updates.
+2023-08-19T04:47:18.235Z [Modules] Host is up to date.
+2023-08-19T04:47:18.235Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:47:18.302Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:47:18.302Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:47:18.303Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:47:19.589Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:47:19.589Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:48:09.623Z [Modules] Checking for host updates.
+2023-08-19T04:48:09.982Z [Modules] Host is up to date.
+2023-08-19T04:48:09.982Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:48:10.038Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:48:10.038Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:48:10.038Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:48:11.385Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:48:11.385Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:49:11.430Z [Modules] Checking for host updates.
+2023-08-19T04:49:11.932Z [Modules] Host is up to date.
+2023-08-19T04:49:11.932Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:49:11.984Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:49:11.984Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:49:11.985Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:49:13.356Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:49:13.356Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:50:13.399Z [Modules] Checking for host updates.
+2023-08-19T04:50:13.852Z [Modules] Host is up to date.
+2023-08-19T04:50:13.852Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:50:14.239Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:50:14.239Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:50:14.240Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:50:15.626Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:50:15.627Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:51:15.672Z [Modules] Checking for host updates.
+2023-08-19T04:51:16.103Z [Modules] Host is up to date.
+2023-08-19T04:51:16.103Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:51:16.166Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:51:16.166Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:51:16.166Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:51:17.679Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:51:17.679Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:52:17.725Z [Modules] Checking for host updates.
+2023-08-19T04:52:18.114Z [Modules] Host is up to date.
+2023-08-19T04:52:18.114Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:52:18.170Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:52:18.170Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:52:18.170Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:52:19.461Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:52:19.461Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:53:19.506Z [Modules] Checking for host updates.
+2023-08-19T04:53:19.887Z [Modules] Host is up to date.
+2023-08-19T04:53:19.887Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:53:19.943Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:53:19.943Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:53:19.943Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:53:21.230Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:53:21.230Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:54:21.272Z [Modules] Checking for host updates.
+2023-08-19T04:54:21.657Z [Modules] Host is up to date.
+2023-08-19T04:54:21.657Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:54:21.712Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:54:21.712Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:54:21.712Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:54:23.223Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:54:23.224Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:55:23.269Z [Modules] Checking for host updates.
+2023-08-19T04:55:23.653Z [Modules] Host is up to date.
+2023-08-19T04:55:23.653Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:55:24.119Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:55:24.119Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:55:24.119Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:55:25.589Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:55:25.589Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:56:25.632Z [Modules] Checking for host updates.
+2023-08-19T04:56:26.069Z [Modules] Host is up to date.
+2023-08-19T04:56:26.070Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:56:26.131Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:56:26.131Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:56:26.131Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:56:27.660Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:56:27.661Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:57:27.706Z [Modules] Checking for host updates.
+2023-08-19T04:57:28.069Z [Modules] Host is up to date.
+2023-08-19T04:57:28.070Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:57:28.124Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:57:28.124Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:57:28.124Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:57:29.501Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:57:29.501Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:58:29.546Z [Modules] Checking for host updates.
+2023-08-19T04:58:29.975Z [Modules] Host is up to date.
+2023-08-19T04:58:29.975Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:58:30.030Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:58:30.030Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:58:30.030Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:58:31.643Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:58:31.643Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T04:59:31.690Z [Modules] Checking for host updates.
+2023-08-19T04:59:32.120Z [Modules] Host is up to date.
+2023-08-19T04:59:32.120Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T04:59:32.176Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T04:59:32.176Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T04:59:32.177Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T04:59:33.715Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T04:59:33.715Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:00:33.759Z [Modules] Checking for host updates.
+2023-08-19T05:00:34.142Z [Modules] Host is up to date.
+2023-08-19T05:00:34.142Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:00:34.515Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:00:34.515Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:00:34.516Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:00:36.060Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:00:36.060Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:01:36.106Z [Modules] Checking for host updates.
+2023-08-19T05:01:36.471Z [Modules] Host is up to date.
+2023-08-19T05:01:36.471Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:01:36.535Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:01:36.535Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:01:36.535Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:01:38.000Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:01:38.001Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:02:38.046Z [Modules] Checking for host updates.
+2023-08-19T05:02:38.421Z [Modules] Host is up to date.
+2023-08-19T05:02:38.421Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:02:38.477Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:02:38.477Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:02:38.477Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:02:39.958Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:02:39.959Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:03:39.996Z [Modules] Checking for host updates.
+2023-08-19T05:03:40.442Z [Modules] Host is up to date.
+2023-08-19T05:03:40.442Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:03:40.500Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:03:40.500Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:03:40.500Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:03:41.915Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:03:41.916Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:04:41.960Z [Modules] Checking for host updates.
+2023-08-19T05:04:42.358Z [Modules] Host is up to date.
+2023-08-19T05:04:42.358Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:04:42.414Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:04:42.415Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:04:42.415Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:04:43.921Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:04:43.922Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:05:43.953Z [Modules] Checking for host updates.
+2023-08-19T05:05:44.345Z [Modules] Host is up to date.
+2023-08-19T05:05:44.345Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:05:44.761Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:05:44.761Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:05:44.761Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:05:46.096Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:05:46.097Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:06:46.115Z [Modules] Checking for host updates.
+2023-08-19T05:06:46.510Z [Modules] Host is up to date.
+2023-08-19T05:06:46.510Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:06:46.577Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:06:46.578Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:06:46.578Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:06:47.961Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:06:47.961Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:07:48.007Z [Modules] Checking for host updates.
+2023-08-19T05:07:48.397Z [Modules] Host is up to date.
+2023-08-19T05:07:48.397Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:07:48.454Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:07:48.455Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:07:48.455Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:07:50.146Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:07:50.146Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:08:50.190Z [Modules] Checking for host updates.
+2023-08-19T05:08:50.576Z [Modules] Host is up to date.
+2023-08-19T05:08:50.576Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:08:50.630Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:08:50.630Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:08:50.630Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:08:52.007Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:08:52.007Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:09:52.052Z [Modules] Checking for host updates.
+2023-08-19T05:09:52.562Z [Modules] Host is up to date.
+2023-08-19T05:09:52.562Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:09:52.616Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:09:52.616Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:09:52.616Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:09:54.005Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:09:54.005Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:10:54.050Z [Modules] Checking for host updates.
+2023-08-19T05:10:54.515Z [Modules] Host is up to date.
+2023-08-19T05:10:54.515Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:10:54.882Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:10:54.883Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:10:54.883Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:10:56.586Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:10:56.586Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:11:56.629Z [Modules] Checking for host updates.
+2023-08-19T05:11:57.019Z [Modules] Host is up to date.
+2023-08-19T05:11:57.019Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:11:57.084Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:11:57.085Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:11:57.085Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:11:58.556Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:11:58.557Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:12:58.600Z [Modules] Checking for host updates.
+2023-08-19T05:12:58.994Z [Modules] Host is up to date.
+2023-08-19T05:12:58.994Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:12:59.048Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:12:59.048Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:12:59.049Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:13:00.492Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:13:00.492Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:14:00.536Z [Modules] Checking for host updates.
+2023-08-19T05:14:01.083Z [Modules] Host is up to date.
+2023-08-19T05:14:01.083Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:14:01.139Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:14:01.139Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:14:01.139Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:14:03.151Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:14:03.152Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:15:03.196Z [Modules] Checking for host updates.
+2023-08-19T05:15:03.575Z [Modules] Host is up to date.
+2023-08-19T05:15:03.575Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:15:03.953Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:15:03.953Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:15:03.953Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:15:05.379Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:15:05.380Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:16:05.422Z [Modules] Checking for host updates.
+2023-08-19T05:16:05.813Z [Modules] Host is up to date.
+2023-08-19T05:16:05.813Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:16:05.878Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:16:05.878Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:16:05.878Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:16:07.259Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:16:07.259Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:17:07.302Z [Modules] Checking for host updates.
+2023-08-19T05:17:08.462Z [Modules] Host is up to date.
+2023-08-19T05:17:08.462Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:17:08.519Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:17:08.519Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:17:08.519Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:17:10.060Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:17:10.060Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:18:10.105Z [Modules] Checking for host updates.
+2023-08-19T05:18:10.528Z [Modules] Host is up to date.
+2023-08-19T05:18:10.528Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:18:10.583Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:18:10.583Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:18:10.583Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:18:11.986Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:18:11.986Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:19:12.030Z [Modules] Checking for host updates.
+2023-08-19T05:19:12.477Z [Modules] Host is up to date.
+2023-08-19T05:19:12.477Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:19:12.535Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:19:12.535Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:19:12.535Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:19:14.075Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:19:14.076Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:20:14.120Z [Modules] Checking for host updates.
+2023-08-19T05:20:14.633Z [Modules] Host is up to date.
+2023-08-19T05:20:14.633Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:20:15.019Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:20:15.019Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:20:15.019Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:20:16.576Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:20:16.576Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:21:16.619Z [Modules] Checking for host updates.
+2023-08-19T05:21:16.997Z [Modules] Host is up to date.
+2023-08-19T05:21:16.998Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:21:17.062Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:21:17.062Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:21:17.062Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:21:18.526Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:21:18.526Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:22:18.569Z [Modules] Checking for host updates.
+2023-08-19T05:22:18.946Z [Modules] Host is up to date.
+2023-08-19T05:22:18.946Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:22:19.001Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:22:19.001Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:22:19.001Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:22:20.323Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:22:20.323Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:23:20.365Z [Modules] Checking for host updates.
+2023-08-19T05:23:20.735Z [Modules] Host is up to date.
+2023-08-19T05:23:20.735Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:23:20.792Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:23:20.792Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:23:20.792Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:23:22.108Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:23:22.109Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:24:22.152Z [Modules] Checking for host updates.
+2023-08-19T05:24:22.530Z [Modules] Host is up to date.
+2023-08-19T05:24:22.531Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:24:22.587Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:24:22.588Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:24:22.588Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:24:24.140Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:24:24.140Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:25:24.185Z [Modules] Checking for host updates.
+2023-08-19T05:25:24.560Z [Modules] Host is up to date.
+2023-08-19T05:25:24.560Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:25:25.006Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:25:25.007Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:25:25.007Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:25:26.696Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:25:26.696Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:26:26.739Z [Modules] Checking for host updates.
+2023-08-19T05:26:27.163Z [Modules] Host is up to date.
+2023-08-19T05:26:27.163Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:26:27.226Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:26:27.226Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:26:27.227Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:26:28.616Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:26:28.617Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:27:28.662Z [Modules] Checking for host updates.
+2023-08-19T05:27:29.112Z [Modules] Host is up to date.
+2023-08-19T05:27:29.112Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:27:29.166Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:27:29.166Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:27:29.167Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:27:30.681Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:27:30.681Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:28:30.722Z [Modules] Checking for host updates.
+2023-08-19T05:28:31.116Z [Modules] Host is up to date.
+2023-08-19T05:28:31.116Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:28:31.170Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:28:31.171Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:28:31.171Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:28:33.022Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:28:33.022Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:29:33.029Z [Modules] Checking for host updates.
+2023-08-19T05:29:33.404Z [Modules] Host is up to date.
+2023-08-19T05:29:33.404Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:29:33.462Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:29:33.462Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:29:33.462Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:29:34.872Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:29:34.872Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:30:34.916Z [Modules] Checking for host updates.
+2023-08-19T05:30:35.296Z [Modules] Host is up to date.
+2023-08-19T05:30:35.296Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:30:35.785Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:30:35.786Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:30:35.786Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:30:37.285Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:30:37.285Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:31:37.329Z [Modules] Checking for host updates.
+2023-08-19T05:31:37.732Z [Modules] Host is up to date.
+2023-08-19T05:31:37.732Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:31:37.794Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:31:37.794Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:31:37.794Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:31:39.334Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:31:39.334Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:32:39.379Z [Modules] Checking for host updates.
+2023-08-19T05:32:39.803Z [Modules] Host is up to date.
+2023-08-19T05:32:39.803Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:32:39.865Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:32:39.865Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:32:39.865Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:32:41.373Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:32:41.373Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:33:41.415Z [Modules] Checking for host updates.
+2023-08-19T05:33:41.784Z [Modules] Host is up to date.
+2023-08-19T05:33:41.784Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:33:41.836Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:33:41.836Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:33:41.836Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:33:43.481Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:33:43.482Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:34:43.525Z [Modules] Checking for host updates.
+2023-08-19T05:34:44.001Z [Modules] Host is up to date.
+2023-08-19T05:34:44.001Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:34:44.058Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:34:44.058Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:34:44.058Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:34:45.599Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:34:45.599Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:35:45.642Z [Modules] Checking for host updates.
+2023-08-19T05:35:46.001Z [Modules] Host is up to date.
+2023-08-19T05:35:46.001Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:35:46.373Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:35:46.373Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:35:46.373Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:35:47.622Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:35:47.622Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:36:47.665Z [Modules] Checking for host updates.
+2023-08-19T05:36:48.041Z [Modules] Host is up to date.
+2023-08-19T05:36:48.041Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:36:48.105Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:36:48.105Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:36:48.105Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:36:49.601Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:36:49.601Z [Modules] Finished module downloads. [success: 0] [failure: 1]
+2023-08-19T05:37:49.645Z [Modules] Checking for host updates.
+2023-08-19T05:37:50.065Z [Modules] Host is up to date.
+2023-08-19T05:37:50.065Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-08-19T05:37:50.120Z [Modules] Module update available: discord_voice@3 [installed: 2]
+2023-08-19T05:37:50.120Z [Modules] Fetching discord_voice@3 from https://discord.com/api/modules/stable/discord_voice/3
+2023-08-19T05:37:50.120Z [Modules] Streaming discord_voice@3 to /home/sam/.config/discord/0.0.28/modules/pending/discord_voice-3.zip
+2023-08-19T05:37:51.657Z [Modules] Failed fetching module discord_voice@3: Error: Client network socket disconnected before secure TLS connection was established
+2023-08-19T05:37:51.658Z [Modules] Finished module downloads. [success: 0] [failure: 1]

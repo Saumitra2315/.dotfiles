@@ -1,0 +1,4 @@
+2023-08-22 03:50:42.144 [info] git rev-parse --git-dir
+2023-08-22 03:50:42.144 [info] git rev-parse --git-dir
+2023-08-22 03:50:42.144 [info] git blame -C --incremental -- /home/sam/RustProj/wet/src/main.rs
+2023-08-22 03:50:42.146 [info] Blamed "/home/sam/RustProj/wet/src/main.rs"

@@ -1,0 +1,15 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Downloads/Financial Accounting (Walter T. Harrison Jr.\\, Charles T. Horngren etc.) (Z-Library).pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+1920x1080 screen: Window-Maximized=true
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAADIAAADovwCAAAAAfsAAAAcAG8AawB1AGwAYQByAF8AcwBpAGQAZQBiAGEAcgAAAAAuAAADogAAAAMBAAACAAAHgAAAA6IAAAAEAAAABAAAAAgAAAAI/AAAAAMAAAABAAAAAQAAACwAcQB1AGkAYwBrAEEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgIAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

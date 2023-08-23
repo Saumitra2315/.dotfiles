@@ -1,0 +1,60 @@
+* {
+    font-family: "JetBrains Mono NF", sans-serif;
+    font-size: 16px;
+  }
+  
+  window#waybar {
+    background-color: rgba(0, 0, 0, 0);
+    color: #d5d6db;
+  }
+  
+  #clock {
+    color: #f7768e;
+    /* background-color: #24283b; */
+  }
+  
+  #battery.discharging {
+    color: #f7768e;
+  }
+  
+  #battery.charging {
+    color: #9ece6a;
+  }
+  
+  #pulseaudio.muted {
+    color: #f7768e;
+  }
+  
+  #workspaces button {
+    padding: 2px;
+    background-color: #16161e;
+    margin-top: 5px;
+    padding: 0 5px;
+  }
+  
+  #workspaces button.active {
+    color: #9ece6a;
+  }
+  
+  #workspaces button:hover {
+      box-shadow: inherit;
+      text-shadow: inherit;
+  }
+  
+  .modules-center {
+    background-color: #16161e;
+    margin-top: 5px;
+    padding: 0 10px;
+    border-radius: 10px;
+  }
+  
+  .modules-right {
+    background-color: #16161e;
+    margin-top: 5px;
+    padding: 0 10px;
+    border-radius: 10px;
+  }
+  
+  tooltip {
+    background-color: #16161e;
+  }

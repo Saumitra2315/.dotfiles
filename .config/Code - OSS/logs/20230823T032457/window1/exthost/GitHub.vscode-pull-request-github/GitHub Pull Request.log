@@ -1,0 +1,6 @@
+2023-08-23 03:24:59.240 [warning] /home/sam/.ssh/config: ENOENT: no such file or directory, open '/home/sam/.ssh/config'
+2023-08-23 03:24:59.344 [info] Looking for git repository
+2023-08-23 03:24:59.344 [info] Found 0 repositories during activation
+2023-08-23 03:24:59.344 [info] Registering git provider
+2023-08-23 03:24:59.361 [info] Repository file:///home/sam/.config/emacs has been opened
+2023-08-23 03:24:59.651 [info] Repository file:///home/sam/.config/nvim has been opened
